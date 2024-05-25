@@ -1,0 +1,28 @@
+{
+  "name": "uae-pass-app",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node app.js",
+    "start:dev": "set NODE_ENV=development && node app.js",
+    "start:prod": "set NODE_ENV=production && node app.js",
+    "start:qa": "set NODE_ENV=qa && node app.js",
+    "start:test": "set NODE_ENV=test && node app.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^1.7.2",
+    "cors": "^2.8.5",
+    "dotenv": "^16.4.5",
+    "express": "^4.19.2",
+    "jsonwebtoken": "^9.0.2",
+    "morgan": "^1.10.0",
+    "mysql2": "^3.9.7",
+    "sequelize": "^6.37.3",
+    "sequelize-cli": "^6.6.2",
+    "winston": "^3.13.0"
+  }
+}

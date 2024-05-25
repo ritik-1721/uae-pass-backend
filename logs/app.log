@@ -1,0 +1,582 @@
+2024-05-24T07:40:37.766Z info: Server is running on port 3000
+2024-05-24T07:42:45.791Z info: Server is running on port 3000
+2024-05-24T07:53:27.888Z info: Server is running on port 3000
+2024-05-24T07:53:37.635Z error: sendResponse is not defined
+2024-05-24T07:54:54.638Z info: Server is running on port 3000
+2024-05-24T08:32:02.091Z info: Server is running on port 3000
+2024-05-24T09:11:40.497Z info: Server is running on port 3000
+2024-05-24T09:25:04.065Z info: Server is running on port 3000
+2024-05-24T09:27:03.525Z info: Server is running on port 3000
+2024-05-24T09:28:03.568Z info: Server is running on port 3000
+2024-05-24T09:30:19.428Z info: Server is running on port 3000
+2024-05-24T09:30:27.476Z info: Page Not Found: http://localhost:3000/mlm/0.0.1/users
+2024-05-24T09:32:45.869Z info: Server is running on port 3000
+2024-05-24T09:32:50.326Z info: Page Not Found: http://localhost:3000/mlm/0.0.1/users
+2024-05-24T09:33:05.061Z info: Server is running on port 3000
+2024-05-24T09:33:11.358Z info: Page Not Found: http://localhost:3000/mlm/0.0.1/users
+2024-05-24T09:33:44.924Z info: Server is running on port 3000
+2024-05-24T09:34:00.518Z info: Server is running on port 3000
+2024-05-24T09:34:02.896Z info: Page Not Found: http://localhost:3000/mlm/0.0.1/users
+2024-05-24T09:39:48.072Z info: Server is running on port 3000
+2024-05-24T09:39:56.926Z info: Page Not Found: http://localhost:3000/mlm/0.0.1/users
+2024-05-24T09:39:56.933Z info: ::1 - - [24/May/2024:09:39:56 +0000] "GET /mlm/0.0.1/users HTTP/1.1" 200 70 "-" "PostmanRuntime/7.37.3"
+
+2024-05-24T09:39:59.214Z info: Page Not Found: http://localhost:3000/mlm/0.0.1/users
+2024-05-24T09:39:59.216Z info: ::1 - - [24/May/2024:09:39:59 +0000] "GET /mlm/0.0.1/users HTTP/1.1" 200 70 "-" "PostmanRuntime/7.37.3"
+
+2024-05-24T09:40:33.095Z info: Page Not Found: http://localhost:3000/mlm/0.0.1/users
+2024-05-24T09:40:33.097Z info: ::1 - - [24/May/2024:09:40:33 +0000] "GET /mlm/0.0.1/users HTTP/1.1" 200 70 "-" "PostmanRuntime/7.37.3"
+
+2024-05-24T09:42:13.009Z info: Server is running on port 3000
+2024-05-24T09:42:25.128Z info: Page Not Found: http://localhost:3000/mlm/0.0.1/users
+2024-05-24T09:42:25.134Z info: ::1 - - [24/May/2024:09:42:25 +0000] "GET /mlm/0.0.1/users HTTP/1.1" 200 70 "-" "PostmanRuntime/7.37.3"
+
+2024-05-24T09:42:45.003Z info: Server is running on port 3000
+2024-05-24T09:44:26.935Z info: Server is running on port 3000
+2024-05-24T09:44:31.053Z info: Page Not Found: http://localhost:3000/mlm/0.0.1/users
+2024-05-24T09:44:31.059Z info: ::1 - - [24/May/2024:09:44:31 +0000] "GET /mlm/0.0.1/users HTTP/1.1" 200 70 "-" "PostmanRuntime/7.37.3"
+2024-05-24T09:46:00.240Z info: Page Not Found: http://localhost:3000/actuator/health
+2024-05-24T09:46:00.243Z info: ::1 - - [24/May/2024:09:46:00 +0000] "GET /actuator/health HTTP/1.1" 200 70 "-" "PostmanRuntime/7.37.3"
+2024-05-24T09:46:01.709Z info: Page Not Found: http://localhost:3000/actuator/health
+2024-05-24T09:46:01.711Z info: ::1 - - [24/May/2024:09:46:01 +0000] "GET /actuator/health HTTP/1.1" 200 70 "-" "PostmanRuntime/7.37.3"
+2024-05-24T09:46:03.023Z info: Page Not Found: http://localhost:3000/actuator/health
+2024-05-24T09:46:03.024Z info: ::1 - - [24/May/2024:09:46:03 +0000] "GET /actuator/health HTTP/1.1" 200 70 "-" "PostmanRuntime/7.37.3"
+2024-05-24T09:46:41.319Z info: Page Not Found: http://localhost:3000/actuator/health
+2024-05-24T09:46:41.321Z info: ::1 - - [24/May/2024:09:46:41 +0000] "GET /actuator/health HTTP/1.1" 200 70 "-" "PostmanRuntime/7.37.3"
+2024-05-24T09:46:46.526Z info: Page Not Found: http://localhost:3000//actuator/health
+2024-05-24T09:46:46.527Z info: ::1 - - [24/May/2024:09:46:46 +0000] "GET //actuator/health HTTP/1.1" 200 70 "-" "PostmanRuntime/7.37.3"
+2024-05-24T09:46:53.562Z info: Page Not Found: http://localhost:3000/actuator/health
+2024-05-24T09:46:53.563Z info: ::1 - - [24/May/2024:09:46:53 +0000] "GET /actuator/health HTTP/1.1" 200 70 "-" "PostmanRuntime/7.37.3"
+2024-05-24T09:48:16.521Z info: Server is running on port 3000
+2024-05-24T09:48:20.749Z info: Page Not Found: http://localhost:3000/actuator/health
+2024-05-24T09:48:20.756Z info: ::1 - - [24/May/2024:09:48:20 +0000] "GET /actuator/health HTTP/1.1" 200 70 "-" "PostmanRuntime/7.37.3"
+2024-05-24T09:48:43.615Z info: Server is running on port 3000
+2024-05-24T09:48:48.942Z info: Actuator health
+2024-05-24T09:48:48.949Z info: ::1 - - [24/May/2024:09:48:48 +0000] "GET /actuator/health HTTP/1.1" 200 58 "-" "PostmanRuntime/7.37.3"
+2024-05-24T09:48:50.206Z info: Actuator health
+2024-05-24T09:48:50.208Z info: ::1 - - [24/May/2024:09:48:50 +0000] "GET /actuator/health HTTP/1.1" 200 58 "-" "PostmanRuntime/7.37.3"
+2024-05-24T09:49:26.996Z info: Page Not Found: http://localhost:3000/uae-pass/0.0.1/login
+2024-05-24T09:49:26.998Z info: ::1 - - [24/May/2024:09:49:26 +0000] "GET /uae-pass/0.0.1/login HTTP/1.1" 200 70 "-" "PostmanRuntime/7.37.3"
+2024-05-24T09:49:28.113Z info: Page Not Found: http://localhost:3000/uae-pass/0.0.1/login
+2024-05-24T09:49:28.114Z info: ::1 - - [24/May/2024:09:49:28 +0000] "GET /uae-pass/0.0.1/login HTTP/1.1" 200 70 "-" "PostmanRuntime/7.37.3"
+2024-05-24T09:49:28.913Z info: Page Not Found: http://localhost:3000/uae-pass/0.0.1/login
+2024-05-24T09:49:28.914Z info: ::1 - - [24/May/2024:09:49:28 +0000] "GET /uae-pass/0.0.1/login HTTP/1.1" 200 70 "-" "PostmanRuntime/7.37.3"
+2024-05-24T09:49:29.867Z info: Page Not Found: http://localhost:3000/uae-pass/0.0.1/login
+2024-05-24T09:49:29.869Z info: ::1 - - [24/May/2024:09:49:29 +0000] "GET /uae-pass/0.0.1/login HTTP/1.1" 200 70 "-" "PostmanRuntime/7.37.3"
+2024-05-24T09:49:30.375Z info: Page Not Found: http://localhost:3000/uae-pass/0.0.1/login
+2024-05-24T09:49:30.376Z info: ::1 - - [24/May/2024:09:49:30 +0000] "GET /uae-pass/0.0.1/login HTTP/1.1" 200 70 "-" "PostmanRuntime/7.37.3"
+2024-05-24T09:57:14.557Z info: Server is running on port 3000
+2024-05-24T09:57:17.769Z info: Page Not Found: http://localhost:3000/uae-pass/0.0.1/login
+2024-05-24T09:57:17.776Z info: ::1 - - [24/May/2024:09:57:17 +0000] "GET /uae-pass/0.0.1/login HTTP/1.1" 200 70 "-" "PostmanRuntime/7.37.3"
+2024-05-24T09:57:19.785Z info: Page Not Found: http://localhost:3000/uae-pass/0.0.1/login
+2024-05-24T09:57:19.786Z info: ::1 - - [24/May/2024:09:57:19 +0000] "GET /uae-pass/0.0.1/login HTTP/1.1" 200 70 "-" "PostmanRuntime/7.37.3"
+2024-05-24T09:57:20.493Z info: Page Not Found: http://localhost:3000/uae-pass/0.0.1/login
+2024-05-24T09:57:20.494Z info: ::1 - - [24/May/2024:09:57:20 +0000] "GET /uae-pass/0.0.1/login HTTP/1.1" 200 70 "-" "PostmanRuntime/7.37.3"
+2024-05-24T09:57:21.140Z info: Page Not Found: http://localhost:3000/uae-pass/0.0.1/login
+2024-05-24T09:57:21.141Z info: ::1 - - [24/May/2024:09:57:21 +0000] "GET /uae-pass/0.0.1/login HTTP/1.1" 200 70 "-" "PostmanRuntime/7.37.3"
+2024-05-24T09:57:21.558Z info: Page Not Found: http://localhost:3000/uae-pass/0.0.1/login
+2024-05-24T09:57:21.559Z info: ::1 - - [24/May/2024:09:57:21 +0000] "GET /uae-pass/0.0.1/login HTTP/1.1" 200 70 "-" "PostmanRuntime/7.37.3"
+2024-05-24T10:00:35.142Z info: Server is running on port 3000
+2024-05-24T10:00:59.824Z info: Redirecting user to UAE Pass login: undefined?response_type=code&client_id=undefined&redirect_uri=undefined
+2024-05-24T10:00:59.836Z info: ::1 - - [24/May/2024:10:00:59 +0000] "GET /uae-pass/0.0.1/login HTTP/1.1" 302 93 "-" "PostmanRuntime/7.37.3"
+2024-05-24T10:01:00.023Z info: Page Not Found: http://localhost:3000/uae-pass/0.0.1/undefined?response_type=code&client_id=undefined&redirect_uri=undefined
+2024-05-24T10:01:00.030Z info: ::1 - - [24/May/2024:10:01:00 +0000] "GET /uae-pass/0.0.1/undefined?response_type=code&client_id=undefined&redirect_uri=undefined HTTP/1.1" 200 70 "http://localhost:3000/uae-pass/0.0.1/login" "PostmanRuntime/7.37.3"
+2024-05-24T10:01:06.025Z info: ::1 - - [24/May/2024:10:01:06 +0000] "GET /a HTTP/1.1" 200 70 "-" "PostmanRuntime/7.37.3"
+2024-05-24T10:01:07.066Z info: ::1 - - [24/May/2024:10:01:07 +0000] "GET /a HTTP/1.1" 200 70 "-" "PostmanRuntime/7.37.3"
+2024-05-24T10:01:10.570Z info: Page Not Found: http://localhost:3000//a
+2024-05-24T10:01:10.572Z info: ::1 - - [24/May/2024:10:01:10 +0000] "GET //a HTTP/1.1" 200 70 "-" "PostmanRuntime/7.37.3"
+2024-05-24T10:01:11.456Z info: Page Not Found: http://localhost:3000//a
+2024-05-24T10:01:11.457Z info: ::1 - - [24/May/2024:10:01:11 +0000] "GET //a HTTP/1.1" 200 70 "-" "PostmanRuntime/7.37.3"
+2024-05-24T10:01:56.634Z info: Server is running on port 3000
+2024-05-24T10:02:31.342Z info: Page Not Found: http://localhost:3000//a
+2024-05-24T10:02:31.349Z info: ::1 - - [24/May/2024:10:02:31 +0000] "GET //a HTTP/1.1" 200 70 "-" "PostmanRuntime/7.37.3"
+2024-05-24T10:02:35.764Z info: Page Not Found: http://localhost:3000/a
+2024-05-24T10:02:35.766Z info: ::1 - - [24/May/2024:10:02:35 +0000] "GET /a HTTP/1.1" 200 70 "-" "PostmanRuntime/7.37.3"
+2024-05-24T10:03:48.238Z info: Page Not Found: http://localhost:3000//actuator/health
+2024-05-24T10:03:48.239Z info: ::1 - - [24/May/2024:10:03:48 +0000] "GET //actuator/health HTTP/1.1" 200 70 "-" "PostmanRuntime/7.37.3"
+2024-05-24T10:03:52.917Z info: Actuator health
+2024-05-24T10:03:52.918Z info: ::1 - - [24/May/2024:10:03:52 +0000] "GET /actuator/health HTTP/1.1" 200 58 "-" "PostmanRuntime/7.37.3"
+2024-05-24T10:04:29.004Z info: Server is running on port 3000
+2024-05-24T10:04:35.723Z info: Page Not Found: http://localhost:3000/api/
+2024-05-24T10:04:35.733Z info: ::1 - - [24/May/2024:10:04:35 +0000] "GET /api/ HTTP/1.1" 200 70 "-" "PostmanRuntime/7.37.3"
+2024-05-24T10:04:45.011Z info: ::1 - - [24/May/2024:10:04:45 +0000] "GET /api/a HTTP/1.1" 200 70 "-" "PostmanRuntime/7.37.3"
+2024-05-24T10:05:21.099Z info: Server is running on port 3000
+2024-05-24T10:05:26.132Z info: Actuator health
+2024-05-24T10:05:26.139Z info: ::1 - - [24/May/2024:10:05:26 +0000] "GET /api HTTP/1.1" 200 58 "-" "PostmanRuntime/7.37.3"
+2024-05-24T10:05:27.307Z info: Actuator health
+2024-05-24T10:05:27.308Z info: ::1 - - [24/May/2024:10:05:27 +0000] "GET /api HTTP/1.1" 200 58 "-" "PostmanRuntime/7.37.3"
+2024-05-24T10:06:11.933Z info: Actuator health
+2024-05-24T10:06:11.936Z info: ::1 - - [24/May/2024:10:06:11 +0000] "GET /api/a HTTP/1.1" 200 58 "-" "PostmanRuntime/7.37.3"
+2024-05-24T10:06:19.332Z info: Server is running on port 3000
+2024-05-24T10:06:39.927Z info: ::1 - - [24/May/2024:10:06:39 +0000] "GET /api/a HTTP/1.1" 200 70 "-" "PostmanRuntime/7.37.3"
+2024-05-24T10:06:40.991Z info: ::1 - - [24/May/2024:10:06:40 +0000] "GET /api/a HTTP/1.1" 200 70 "-" "PostmanRuntime/7.37.3"
+2024-05-24T10:07:33.344Z info: ::1 - - [24/May/2024:10:07:33 +0000] "GET /api/a HTTP/1.1" 200 70 "-" "PostmanRuntime/7.37.3"
+2024-05-24T10:11:23.712Z info: Server is running on port 3000
+2024-05-24T10:16:08.142Z info: Page Not Found: http://localhost:3000/^//api//?(?=\/|$)/i/^\/uae-pass\/?(?=\/|$)/i/0.0.1/login
+2024-05-24T10:16:08.154Z info: ::1 - - [24/May/2024:10:16:08 +0000] "GET /^//api//?(?=\/|$)/i/^\/uae-pass\/?(?=\/|$)/i/0.0.1/login HTTP/1.1" 200 70 "-" "PostmanRuntime/7.37.3"
+2024-05-24T10:16:27.766Z info: Redirecting user to UAE Pass login: undefined?response_type=code&client_id=undefined&redirect_uri=undefined
+2024-05-24T10:16:27.768Z info: ::1 - - [24/May/2024:10:16:27 +0000] "GET /api/uae-pass/0.0.1/login HTTP/1.1" 302 93 "-" "PostmanRuntime/7.37.3"
+2024-05-24T10:16:27.771Z info: Page Not Found: http://localhost:3000/api/uae-pass/0.0.1/undefined?response_type=code&client_id=undefined&redirect_uri=undefined
+2024-05-24T10:16:27.772Z info: ::1 - - [24/May/2024:10:16:27 +0000] "GET /api/uae-pass/0.0.1/undefined?response_type=code&client_id=undefined&redirect_uri=undefined HTTP/1.1" 200 70 "http://localhost:3000/api/uae-pass/0.0.1/login" "PostmanRuntime/7.37.3"
+2024-05-24T10:16:30.283Z info: Redirecting user to UAE Pass login: undefined?response_type=code&client_id=undefined&redirect_uri=undefined
+2024-05-24T10:16:30.285Z info: ::1 - - [24/May/2024:10:16:30 +0000] "GET /api/uae-pass/0.0.1/login HTTP/1.1" 302 93 "-" "PostmanRuntime/7.37.3"
+2024-05-24T10:16:30.287Z info: Page Not Found: http://localhost:3000/api/uae-pass/0.0.1/undefined?response_type=code&client_id=undefined&redirect_uri=undefined
+2024-05-24T10:16:30.289Z info: ::1 - - [24/May/2024:10:16:30 +0000] "GET /api/uae-pass/0.0.1/undefined?response_type=code&client_id=undefined&redirect_uri=undefined HTTP/1.1" 200 70 "http://localhost:3000/api/uae-pass/0.0.1/login" "PostmanRuntime/7.37.3"
+2024-05-24T10:16:30.690Z info: Redirecting user to UAE Pass login: undefined?response_type=code&client_id=undefined&redirect_uri=undefined
+2024-05-24T10:16:30.691Z info: ::1 - - [24/May/2024:10:16:30 +0000] "GET /api/uae-pass/0.0.1/login HTTP/1.1" 302 93 "-" "PostmanRuntime/7.37.3"
+2024-05-24T10:16:30.693Z info: Page Not Found: http://localhost:3000/api/uae-pass/0.0.1/undefined?response_type=code&client_id=undefined&redirect_uri=undefined
+2024-05-24T10:16:30.694Z info: ::1 - - [24/May/2024:10:16:30 +0000] "GET /api/uae-pass/0.0.1/undefined?response_type=code&client_id=undefined&redirect_uri=undefined HTTP/1.1" 200 70 "http://localhost:3000/api/uae-pass/0.0.1/login" "PostmanRuntime/7.37.3"
+2024-05-24T10:16:31.111Z info: Redirecting user to UAE Pass login: undefined?response_type=code&client_id=undefined&redirect_uri=undefined
+2024-05-24T10:16:31.112Z info: ::1 - - [24/May/2024:10:16:31 +0000] "GET /api/uae-pass/0.0.1/login HTTP/1.1" 302 93 "-" "PostmanRuntime/7.37.3"
+2024-05-24T10:16:31.115Z info: Page Not Found: http://localhost:3000/api/uae-pass/0.0.1/undefined?response_type=code&client_id=undefined&redirect_uri=undefined
+2024-05-24T10:16:31.117Z info: ::1 - - [24/May/2024:10:16:31 +0000] "GET /api/uae-pass/0.0.1/undefined?response_type=code&client_id=undefined&redirect_uri=undefined HTTP/1.1" 200 70 "http://localhost:3000/api/uae-pass/0.0.1/login" "PostmanRuntime/7.37.3"
+2024-05-24T10:16:34.141Z info: Redirecting user to UAE Pass login: undefined?response_type=code&client_id=undefined&redirect_uri=undefined
+2024-05-24T10:16:34.142Z info: ::1 - - [24/May/2024:10:16:34 +0000] "GET /api/uae-pass/0.0.1/login HTTP/1.1" 302 93 "-" "PostmanRuntime/7.37.3"
+2024-05-24T10:16:34.143Z info: Page Not Found: http://localhost:3000/api/uae-pass/0.0.1/undefined?response_type=code&client_id=undefined&redirect_uri=undefined
+2024-05-24T10:16:34.145Z info: ::1 - - [24/May/2024:10:16:34 +0000] "GET /api/uae-pass/0.0.1/undefined?response_type=code&client_id=undefined&redirect_uri=undefined HTTP/1.1" 200 70 "http://localhost:3000/api/uae-pass/0.0.1/login" "PostmanRuntime/7.37.3"
+2024-05-24T10:16:34.586Z info: Redirecting user to UAE Pass login: undefined?response_type=code&client_id=undefined&redirect_uri=undefined
+2024-05-24T10:16:34.588Z info: ::1 - - [24/May/2024:10:16:34 +0000] "GET /api/uae-pass/0.0.1/login HTTP/1.1" 302 93 "-" "PostmanRuntime/7.37.3"
+2024-05-24T10:16:34.591Z info: Page Not Found: http://localhost:3000/api/uae-pass/0.0.1/undefined?response_type=code&client_id=undefined&redirect_uri=undefined
+2024-05-24T10:16:34.593Z info: ::1 - - [24/May/2024:10:16:34 +0000] "GET /api/uae-pass/0.0.1/undefined?response_type=code&client_id=undefined&redirect_uri=undefined HTTP/1.1" 200 70 "http://localhost:3000/api/uae-pass/0.0.1/login" "PostmanRuntime/7.37.3"
+2024-05-24T10:22:42.537Z info: Server is running on port 3000
+2024-05-24T10:23:31.100Z info: Page Not Found: http://localhost:3000/api/uae-pass/0.0.1/login
+2024-05-24T10:23:31.108Z info: ::1 - - [24/May/2024:10:23:31 +0000] "GET /api/uae-pass/0.0.1/login HTTP/1.1" 200 70 "-" "PostmanRuntime/7.37.3"
+2024-05-24T10:23:32.545Z info: Page Not Found: http://localhost:3000/api/uae-pass/0.0.1/login
+2024-05-24T10:23:32.547Z info: ::1 - - [24/May/2024:10:23:32 +0000] "GET /api/uae-pass/0.0.1/login HTTP/1.1" 200 70 "-" "PostmanRuntime/7.37.3"
+2024-05-24T10:24:02.908Z info: Page Not Found: http://localhost:3000/api/uae-pass/0.0.1/login
+2024-05-24T10:24:02.910Z info: ::1 - - [24/May/2024:10:24:02 +0000] "GET /api/uae-pass/0.0.1/login HTTP/1.1" 200 70 "-" "PostmanRuntime/7.37.3"
+2024-05-24T10:25:36.029Z info: Page Not Found: http://localhost:3000/api/uae-pass/0.0.1/login
+2024-05-24T10:25:36.030Z info: ::1 - - [24/May/2024:10:25:36 +0000] "GET /api/uae-pass/0.0.1/login HTTP/1.1" 200 70 "-" "PostmanRuntime/7.37.3"
+2024-05-24T10:26:20.052Z info: Page Not Found: http://localhost:3000/api/uae-pass/0.0.1/login
+2024-05-24T10:26:20.053Z info: ::1 - - [24/May/2024:10:26:20 +0000] "GET /api/uae-pass/0.0.1/login HTTP/1.1" 200 70 "-" "PostmanRuntime/7.37.3"
+2024-05-24T10:26:33.535Z info: Page Not Found: http://localhost:3000/api/uae-pass/0.0.1/login
+2024-05-24T10:26:33.539Z info: ::1 - - [24/May/2024:10:26:33 +0000] "GET /api/uae-pass/0.0.1/login HTTP/1.1" 200 70 "-" "PostmanRuntime/7.37.3"
+2024-05-24T10:31:29.639Z info: Page Not Found: http://localhost:3000/api/uae-pass/0.0.1/login
+2024-05-24T10:31:29.640Z info: ::1 - - [24/May/2024:10:31:29 +0000] "GET /api/uae-pass/0.0.1/login HTTP/1.1" 200 70 "-" "PostmanRuntime/7.37.3"
+2024-05-24T10:32:59.924Z info: Page Not Found: http://localhost:3000//api/uae-pass/0.0.1/login
+2024-05-24T10:32:59.925Z info: ::1 - - [24/May/2024:10:32:59 +0000] "GET //api/uae-pass/0.0.1/login HTTP/1.1" 200 70 "-" "PostmanRuntime/7.37.3"
+2024-05-24T10:33:27.416Z info: Server is running on port 3000
+2024-05-24T10:33:31.357Z info: Page Not Found: http://localhost:3000//api/uae-pass/0.0.1/login
+2024-05-24T10:33:31.364Z info: ::1 - - [24/May/2024:10:33:31 +0000] "GET //api/uae-pass/0.0.1/login HTTP/1.1" 200 70 "-" "PostmanRuntime/7.37.3"
+2024-05-24T10:33:32.425Z info: Page Not Found: http://localhost:3000//api/uae-pass/0.0.1/login
+2024-05-24T10:33:32.428Z info: ::1 - - [24/May/2024:10:33:32 +0000] "GET //api/uae-pass/0.0.1/login HTTP/1.1" 200 70 "-" "PostmanRuntime/7.37.3"
+2024-05-24T10:33:36.859Z info: Page Not Found: http://localhost:3000/api/uae-pass/0.0.1/login
+2024-05-24T10:33:36.860Z info: ::1 - - [24/May/2024:10:33:36 +0000] "GET /api/uae-pass/0.0.1/login HTTP/1.1" 200 70 "-" "PostmanRuntime/7.37.3"
+2024-05-24T10:33:37.715Z info: Page Not Found: http://localhost:3000/api/uae-pass/0.0.1/login
+2024-05-24T10:33:37.716Z info: ::1 - - [24/May/2024:10:33:37 +0000] "GET /api/uae-pass/0.0.1/login HTTP/1.1" 200 70 "-" "PostmanRuntime/7.37.3"
+2024-05-24T10:35:21.354Z info: Page Not Found: http://localhost:3000//api/uae-pass/0.0.1/login
+2024-05-24T10:35:21.359Z info: ::1 - - [24/May/2024:10:35:21 +0000] "GET //api/uae-pass/0.0.1/login HTTP/1.1" 200 70 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36"
+2024-05-24T10:35:21.978Z info: Page Not Found: http://localhost:3000/favicon.ico
+2024-05-24T10:35:21.980Z info: ::1 - - [24/May/2024:10:35:21 +0000] "GET /favicon.ico HTTP/1.1" 200 70 "http://localhost:3000//api/uae-pass/0.0.1/login" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36"
+2024-05-24T10:39:13.745Z info: Server is running on port 3000
+2024-05-24T10:39:23.085Z info: Page Not Found: http://localhost:3000/api/uae-pass/0.0.1/login
+2024-05-24T10:39:23.092Z info: ::1 - - [24/May/2024:10:39:23 +0000] "GET /api/uae-pass/0.0.1/login HTTP/1.1" 200 70 "-" "PostmanRuntime/7.37.3"
+2024-05-24T10:41:15.225Z info: Server is running on port 3000
+2024-05-24T10:42:50.221Z info: Page Not Found: http://localhost:3000/api/uae-pass/0.0.1/login
+2024-05-24T10:42:50.232Z info: ::1 - - [24/May/2024:10:42:50 +0000] "GET /api/uae-pass/0.0.1/login HTTP/1.1" 200 70 "-" "PostmanRuntime/7.37.3"
+2024-05-24T10:42:59.084Z info: Page Not Found: http://localhost:3000/api/uae-pass/0.0.1/login
+2024-05-24T10:42:59.085Z info: ::1 - - [24/May/2024:10:42:59 +0000] "GET /api/uae-pass/0.0.1/login HTTP/1.1" 200 70 "-" "PostmanRuntime/7.37.3"
+2024-05-24T10:43:00.014Z info: Page Not Found: http://localhost:3000/api/uae-pass/0.0.1/login
+2024-05-24T10:43:00.016Z info: ::1 - - [24/May/2024:10:43:00 +0000] "GET /api/uae-pass/0.0.1/login HTTP/1.1" 200 70 "-" "PostmanRuntime/7.37.3"
+2024-05-24T10:43:00.830Z info: Page Not Found: http://localhost:3000/api/uae-pass/0.0.1/login
+2024-05-24T10:43:00.832Z info: ::1 - - [24/May/2024:10:43:00 +0000] "GET /api/uae-pass/0.0.1/login HTTP/1.1" 200 70 "-" "PostmanRuntime/7.37.3"
+2024-05-24T10:43:01.638Z info: Page Not Found: http://localhost:3000/api/uae-pass/0.0.1/login
+2024-05-24T10:43:01.639Z info: ::1 - - [24/May/2024:10:43:01 +0000] "GET /api/uae-pass/0.0.1/login HTTP/1.1" 200 70 "-" "PostmanRuntime/7.37.3"
+2024-05-24T10:43:02.395Z info: Page Not Found: http://localhost:3000/api/uae-pass/0.0.1/login
+2024-05-24T10:43:02.396Z info: ::1 - - [24/May/2024:10:43:02 +0000] "GET /api/uae-pass/0.0.1/login HTTP/1.1" 200 70 "-" "PostmanRuntime/7.37.3"
+2024-05-24T10:43:12.509Z info: Page Not Found: http://localhost:3000/api/uae-pass/0.0.1/login
+2024-05-24T10:43:12.510Z info: ::1 - - [24/May/2024:10:43:12 +0000] "GET /api/uae-pass/0.0.1/login HTTP/1.1" 200 70 "-" "PostmanRuntime/7.37.3"
+2024-05-24T10:43:13.822Z info: Page Not Found: http://localhost:3000/api/uae-pass/0.0.1/login
+2024-05-24T10:43:13.823Z info: ::1 - - [24/May/2024:10:43:13 +0000] "GET /api/uae-pass/0.0.1/login HTTP/1.1" 200 70 "-" "PostmanRuntime/7.37.3"
+2024-05-24T10:43:14.552Z info: Page Not Found: http://localhost:3000/api/uae-pass/0.0.1/login
+2024-05-24T10:43:14.554Z info: ::1 - - [24/May/2024:10:43:14 +0000] "GET /api/uae-pass/0.0.1/login HTTP/1.1" 200 70 "-" "PostmanRuntime/7.37.3"
+2024-05-24T10:43:15.000Z info: Page Not Found: http://localhost:3000/api/uae-pass/0.0.1/login
+2024-05-24T10:43:15.002Z info: ::1 - - [24/May/2024:10:43:15 +0000] "GET /api/uae-pass/0.0.1/login HTTP/1.1" 200 70 "-" "PostmanRuntime/7.37.3"
+2024-05-24T10:43:16.971Z info: Page Not Found: http://localhost:3000/api/uae-pass/0.0.1/login
+2024-05-24T10:43:16.972Z info: ::1 - - [24/May/2024:10:43:16 +0000] "GET /api/uae-pass/0.0.1/login HTTP/1.1" 200 70 "-" "PostmanRuntime/7.37.3"
+2024-05-24T10:43:17.410Z info: Page Not Found: http://localhost:3000/api/uae-pass/0.0.1/login
+2024-05-24T10:43:17.411Z info: ::1 - - [24/May/2024:10:43:17 +0000] "GET /api/uae-pass/0.0.1/login HTTP/1.1" 200 70 "-" "PostmanRuntime/7.37.3"
+2024-05-24T10:43:17.991Z info: Page Not Found: http://localhost:3000/api/uae-pass/0.0.1/login
+2024-05-24T10:43:17.992Z info: ::1 - - [24/May/2024:10:43:17 +0000] "GET /api/uae-pass/0.0.1/login HTTP/1.1" 200 70 "-" "PostmanRuntime/7.37.3"
+2024-05-24T10:43:18.455Z info: Page Not Found: http://localhost:3000/api/uae-pass/0.0.1/login
+2024-05-24T10:43:18.456Z info: ::1 - - [24/May/2024:10:43:18 +0000] "GET /api/uae-pass/0.0.1/login HTTP/1.1" 200 70 "-" "PostmanRuntime/7.37.3"
+2024-05-24T10:43:18.812Z info: Page Not Found: http://localhost:3000/api/uae-pass/0.0.1/login
+2024-05-24T10:43:18.814Z info: ::1 - - [24/May/2024:10:43:18 +0000] "GET /api/uae-pass/0.0.1/login HTTP/1.1" 200 70 "-" "PostmanRuntime/7.37.3"
+2024-05-24T10:43:19.337Z info: Page Not Found: http://localhost:3000/api/uae-pass/0.0.1/login
+2024-05-24T10:43:19.338Z info: ::1 - - [24/May/2024:10:43:19 +0000] "GET /api/uae-pass/0.0.1/login HTTP/1.1" 200 70 "-" "PostmanRuntime/7.37.3"
+2024-05-24T10:43:19.707Z info: Page Not Found: http://localhost:3000/api/uae-pass/0.0.1/login
+2024-05-24T10:43:19.709Z info: ::1 - - [24/May/2024:10:43:19 +0000] "GET /api/uae-pass/0.0.1/login HTTP/1.1" 200 70 "-" "PostmanRuntime/7.37.3"
+2024-05-24T10:43:20.124Z info: Page Not Found: http://localhost:3000/api/uae-pass/0.0.1/login
+2024-05-24T10:43:20.127Z info: ::1 - - [24/May/2024:10:43:20 +0000] "GET /api/uae-pass/0.0.1/login HTTP/1.1" 200 70 "-" "PostmanRuntime/7.37.3"
+2024-05-24T10:43:20.495Z info: Page Not Found: http://localhost:3000/api/uae-pass/0.0.1/login
+2024-05-24T10:43:20.497Z info: ::1 - - [24/May/2024:10:43:20 +0000] "GET /api/uae-pass/0.0.1/login HTTP/1.1" 200 70 "-" "PostmanRuntime/7.37.3"
+2024-05-24T10:43:20.901Z info: Page Not Found: http://localhost:3000/api/uae-pass/0.0.1/login
+2024-05-24T10:43:20.904Z info: ::1 - - [24/May/2024:10:43:20 +0000] "GET /api/uae-pass/0.0.1/login HTTP/1.1" 200 70 "-" "PostmanRuntime/7.37.3"
+2024-05-24T10:43:21.334Z info: Page Not Found: http://localhost:3000/api/uae-pass/0.0.1/login
+2024-05-24T10:43:21.336Z info: ::1 - - [24/May/2024:10:43:21 +0000] "GET /api/uae-pass/0.0.1/login HTTP/1.1" 200 70 "-" "PostmanRuntime/7.37.3"
+2024-05-24T10:43:21.736Z info: Page Not Found: http://localhost:3000/api/uae-pass/0.0.1/login
+2024-05-24T10:43:21.737Z info: ::1 - - [24/May/2024:10:43:21 +0000] "GET /api/uae-pass/0.0.1/login HTTP/1.1" 200 70 "-" "PostmanRuntime/7.37.3"
+2024-05-24T10:44:16.356Z info: Page Not Found: http://localhost:3000/api//uae-pass/0.0.1/login
+2024-05-24T10:44:16.357Z info: ::1 - - [24/May/2024:10:44:16 +0000] "GET /api//uae-pass/0.0.1/login HTTP/1.1" 200 70 "-" "PostmanRuntime/7.37.3"
+2024-05-24T10:44:20.627Z info: Page Not Found: http://localhost:3000/api/uae-pass/0.0.1/login
+2024-05-24T10:44:20.628Z info: ::1 - - [24/May/2024:10:44:20 +0000] "GET /api/uae-pass/0.0.1/login HTTP/1.1" 200 70 "-" "PostmanRuntime/7.37.3"
+2024-05-24T10:44:24.306Z info: Page Not Found: http://localhost:3000//api/uae-pass/0.0.1/login
+2024-05-24T10:44:24.307Z info: ::1 - - [24/May/2024:10:44:24 +0000] "GET //api/uae-pass/0.0.1/login HTTP/1.1" 200 70 "-" "PostmanRuntime/7.37.3"
+2024-05-24T10:44:28.189Z info: Page Not Found: http://localhost:3000/api/uae-pass/0.0.1/login
+2024-05-24T10:44:28.190Z info: ::1 - - [24/May/2024:10:44:28 +0000] "GET /api/uae-pass/0.0.1/login HTTP/1.1" 200 70 "-" "PostmanRuntime/7.37.3"
+2024-05-24T10:46:05.965Z info: Server is running on port 3000
+2024-05-24T10:46:14.641Z info: Page Not Found: http://localhost:3000//api/uae-pass/0.0.1/login
+2024-05-24T10:46:14.651Z info: ::1 - - [24/May/2024:10:46:14 +0000] "GET //api/uae-pass/0.0.1/login HTTP/1.1" 304 - "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36"
+2024-05-24T10:46:14.783Z info: Page Not Found: http://localhost:3000/favicon.ico
+2024-05-24T10:46:14.785Z info: ::1 - - [24/May/2024:10:46:14 +0000] "GET /favicon.ico HTTP/1.1" 304 - "http://localhost:3000//api/uae-pass/0.0.1/login" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36"
+2024-05-24T10:46:17.973Z info: Page Not Found: http://localhost:3000/api/uae-pass/0.0.1/login
+2024-05-24T10:46:17.975Z info: ::1 - - [24/May/2024:10:46:17 +0000] "GET /api/uae-pass/0.0.1/login HTTP/1.1" 200 70 "-" "PostmanRuntime/7.37.3"
+2024-05-24T10:46:21.010Z info: Page Not Found: http://localhost:3000/api/uae-pass/0.0.1/login
+2024-05-24T10:46:21.011Z info: ::1 - - [24/May/2024:10:46:21 +0000] "GET /api/uae-pass/0.0.1/login HTTP/1.1" 200 70 "-" "PostmanRuntime/7.37.3"
+2024-05-24T10:46:27.312Z info: ::1 - - [24/May/2024:10:46:27 +0000] "GET /a HTTP/1.1" 200 70 "-" "PostmanRuntime/7.37.3"
+2024-05-24T10:46:30.345Z info: Page Not Found: http://localhost:3000/api
+2024-05-24T10:46:30.347Z info: ::1 - - [24/May/2024:10:46:30 +0000] "GET /api HTTP/1.1" 200 70 "-" "PostmanRuntime/7.37.3"
+2024-05-24T10:46:33.997Z info: Page Not Found: http://localhost:3000/api/a
+2024-05-24T10:46:33.999Z info: ::1 - - [24/May/2024:10:46:33 +0000] "GET /api/a HTTP/1.1" 200 70 "-" "PostmanRuntime/7.37.3"
+2024-05-24T10:46:34.816Z info: Page Not Found: http://localhost:3000/api/a
+2024-05-24T10:46:34.818Z info: ::1 - - [24/May/2024:10:46:34 +0000] "GET /api/a HTTP/1.1" 200 70 "-" "PostmanRuntime/7.37.3"
+2024-05-24T10:47:11.231Z info: Server is running on port 3000
+2024-05-24T10:47:18.996Z info: ::1 - - [24/May/2024:10:47:18 +0000] "GET /api/a HTTP/1.1" 404 144 "-" "PostmanRuntime/7.37.3"
+2024-05-24T10:47:20.037Z info: ::1 - - [24/May/2024:10:47:20 +0000] "GET /api/a HTTP/1.1" 404 144 "-" "PostmanRuntime/7.37.3"
+2024-05-24T10:47:50.061Z info: Server is running on port 3000
+2024-05-24T10:47:53.397Z info: ::1 - - [24/May/2024:10:47:53 +0000] "GET /api/a HTTP/1.1" 404 144 "-" "PostmanRuntime/7.37.3"
+2024-05-24T10:47:54.487Z info: ::1 - - [24/May/2024:10:47:54 +0000] "GET /api/a HTTP/1.1" 404 144 "-" "PostmanRuntime/7.37.3"
+2024-05-24T10:47:54.951Z info: ::1 - - [24/May/2024:10:47:54 +0000] "GET /api/a HTTP/1.1" 404 144 "-" "PostmanRuntime/7.37.3"
+2024-05-24T11:15:17.094Z info: Server is running on port 3000
+2024-05-24T11:15:27.297Z info: ::1 - - [24/May/2024:11:15:27 +0000] "GET /a HTTP/1.1" 200 70 "-" "PostmanRuntime/7.37.3"
+2024-05-24T11:15:28.245Z info: ::1 - - [24/May/2024:11:15:28 +0000] "GET /a HTTP/1.1" 200 70 "-" "PostmanRuntime/7.37.3"
+2024-05-24T11:15:29.413Z info: ::1 - - [24/May/2024:11:15:29 +0000] "GET /a HTTP/1.1" 200 70 "-" "PostmanRuntime/7.37.3"
+2024-05-24T11:15:39.681Z info: ::1 - - [24/May/2024:11:15:39 +0000] "GET /a HTTP/1.1" 200 70 "-" "PostmanRuntime/7.37.3"
+2024-05-24T11:17:06.579Z info: Server is running on port 3000
+2024-05-24T11:18:08.107Z info: ::1 - - [24/May/2024:11:18:08 +0000] "GET /api/a HTTP/1.1" 404 144 "-" "PostmanRuntime/7.37.3"
+2024-05-24T11:18:09.029Z info: ::1 - - [24/May/2024:11:18:09 +0000] "GET /api/a HTTP/1.1" 404 144 "-" "PostmanRuntime/7.37.3"
+2024-05-24T11:18:37.705Z info: Server is running on port 3000
+2024-05-24T11:18:53.576Z info: ::1 - - [24/May/2024:11:18:53 +0000] "GET /api/a HTTP/1.1" 200 70 "-" "PostmanRuntime/7.37.3"
+2024-05-24T11:18:54.878Z info: ::1 - - [24/May/2024:11:18:54 +0000] "GET /api/a HTTP/1.1" 200 70 "-" "PostmanRuntime/7.37.3"
+2024-05-24T11:18:56.223Z info: ::1 - - [24/May/2024:11:18:56 +0000] "GET /api/a HTTP/1.1" 200 70 "-" "PostmanRuntime/7.37.3"
+2024-05-24T11:18:56.644Z info: ::1 - - [24/May/2024:11:18:56 +0000] "GET /api/a HTTP/1.1" 200 70 "-" "PostmanRuntime/7.37.3"
+2024-05-24T11:19:01.678Z info: ::1 - - [24/May/2024:11:19:01 +0000] "GET /api/a HTTP/1.1" 200 70 "-" "PostmanRuntime/7.37.3"
+2024-05-24T11:19:03.767Z info: ::1 - - [24/May/2024:11:19:03 +0000] "GET /api/a HTTP/1.1" 200 70 "-" "PostmanRuntime/7.37.3"
+2024-05-24T11:19:05.501Z info: ::1 - - [24/May/2024:11:19:05 +0000] "GET /api/a HTTP/1.1" 200 70 "-" "PostmanRuntime/7.37.3"
+2024-05-24T11:19:06.413Z info: ::1 - - [24/May/2024:11:19:06 +0000] "GET /api/a HTTP/1.1" 200 70 "-" "PostmanRuntime/7.37.3"
+2024-05-24T11:19:11.171Z info: ::1 - - [24/May/2024:11:19:11 +0000] "GET /api/a HTTP/1.1" 200 70 "-" "PostmanRuntime/7.37.3"
+2024-05-24T11:19:18.233Z info: ::1 - - [24/May/2024:11:19:18 +0000] "GET /api/a HTTP/1.1" 200 70 "-" "PostmanRuntime/7.37.3"
+2024-05-24T11:20:46.260Z info: ::1 - - [24/May/2024:11:20:46 +0000] "GET //api/uae-pass/0.0.1/login HTTP/1.1" 404 164 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36"
+2024-05-24T11:20:49.254Z info: ::1 - - [24/May/2024:11:20:49 +0000] "GET //api/uae-pass/0.0.1/login HTTP/1.1" 404 164 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36"
+2024-05-24T11:21:00.252Z info: ::1 - - [24/May/2024:11:21:00 +0000] "GET //api/a HTTP/1.1" 404 145 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36"
+2024-05-24T11:21:04.736Z info: ::1 - - [24/May/2024:11:21:04 +0000] "GET /api/a HTTP/1.1" 200 70 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36"
+2024-05-24T11:21:04.876Z info: ::1 - - [24/May/2024:11:21:04 +0000] "GET /favicon.ico HTTP/1.1" 404 150 "http://localhost:3000/api/a" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36"
+2024-05-24T11:21:06.663Z info: ::1 - - [24/May/2024:11:21:06 +0000] "GET /api/a HTTP/1.1" 304 - "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36"
+2024-05-24T11:21:18.045Z info: ::1 - - [24/May/2024:11:21:18 +0000] "GET /api/a HTTP/1.1" 200 70 "-" "PostmanRuntime/7.37.3"
+2024-05-24T11:21:18.953Z info: ::1 - - [24/May/2024:11:21:18 +0000] "GET /api/a HTTP/1.1" 200 70 "-" "PostmanRuntime/7.37.3"
+2024-05-24T11:21:48.455Z info: Server is running on port 3000
+2024-05-24T11:21:53.561Z info: ::1 - - [24/May/2024:11:21:53 +0000] "GET /api/a HTTP/1.1" 200 71 "-" "PostmanRuntime/7.37.3"
+2024-05-24T11:22:36.766Z info: Server is running on port 3000
+2024-05-24T11:22:40.938Z info: Redirecting user to UAE Pass login: undefined?response_type=code&client_id=undefined&redirect_uri=undefined
+2024-05-24T11:22:40.945Z info: ::1 - - [24/May/2024:11:22:40 +0000] "GET /api/uae-pass/0.0.1/login HTTP/1.1" 302 93 "-" "PostmanRuntime/7.37.3"
+2024-05-24T11:22:40.997Z info: Page Not Found: http://localhost:3000/api/uae-pass/0.0.1/undefined?response_type=code&client_id=undefined&redirect_uri=undefined
+2024-05-24T11:22:41.000Z info: ::1 - - [24/May/2024:11:22:41 +0000] "GET /api/uae-pass/0.0.1/undefined?response_type=code&client_id=undefined&redirect_uri=undefined HTTP/1.1" 200 70 "http://localhost:3000/api/uae-pass/0.0.1/login" "PostmanRuntime/7.37.3"
+2024-05-24T11:22:41.955Z info: Redirecting user to UAE Pass login: undefined?response_type=code&client_id=undefined&redirect_uri=undefined
+2024-05-24T11:22:41.956Z info: ::1 - - [24/May/2024:11:22:41 +0000] "GET /api/uae-pass/0.0.1/login HTTP/1.1" 302 93 "-" "PostmanRuntime/7.37.3"
+2024-05-24T11:22:41.958Z info: Page Not Found: http://localhost:3000/api/uae-pass/0.0.1/undefined?response_type=code&client_id=undefined&redirect_uri=undefined
+2024-05-24T11:22:41.960Z info: ::1 - - [24/May/2024:11:22:41 +0000] "GET /api/uae-pass/0.0.1/undefined?response_type=code&client_id=undefined&redirect_uri=undefined HTTP/1.1" 200 70 "http://localhost:3000/api/uae-pass/0.0.1/login" "PostmanRuntime/7.37.3"
+2024-05-24T11:23:11.521Z info: Server is running on port 3000
+2024-05-24T11:23:14.532Z info: Redirecting user to UAE Pass login: undefined?response_type=code&client_id=undefined&redirect_uri=undefined
+2024-05-24T11:23:14.540Z info: ::1 - - [24/May/2024:11:23:14 +0000] "GET /api/uae-pass/0.0.1/login HTTP/1.1" 302 93 "-" "PostmanRuntime/7.37.3"
+2024-05-24T11:23:14.544Z info: Page Not Found: http://localhost:3000/api/uae-pass/0.0.1/undefined?response_type=code&client_id=undefined&redirect_uri=undefined
+2024-05-24T11:23:14.548Z info: ::1 - - [24/May/2024:11:23:14 +0000] "GET /api/uae-pass/0.0.1/undefined?response_type=code&client_id=undefined&redirect_uri=undefined HTTP/1.1" 200 70 "http://localhost:3000/api/uae-pass/0.0.1/login" "PostmanRuntime/7.37.3"
+2024-05-24T11:23:15.427Z info: Redirecting user to UAE Pass login: undefined?response_type=code&client_id=undefined&redirect_uri=undefined
+2024-05-24T11:23:15.430Z info: ::1 - - [24/May/2024:11:23:15 +0000] "GET /api/uae-pass/0.0.1/login HTTP/1.1" 302 93 "-" "PostmanRuntime/7.37.3"
+2024-05-24T11:23:15.433Z info: Page Not Found: http://localhost:3000/api/uae-pass/0.0.1/undefined?response_type=code&client_id=undefined&redirect_uri=undefined
+2024-05-24T11:23:15.435Z info: ::1 - - [24/May/2024:11:23:15 +0000] "GET /api/uae-pass/0.0.1/undefined?response_type=code&client_id=undefined&redirect_uri=undefined HTTP/1.1" 200 70 "http://localhost:3000/api/uae-pass/0.0.1/login" "PostmanRuntime/7.37.3"
+2024-05-24T11:23:16.305Z info: Redirecting user to UAE Pass login: undefined?response_type=code&client_id=undefined&redirect_uri=undefined
+2024-05-24T11:23:16.307Z info: ::1 - - [24/May/2024:11:23:16 +0000] "GET /api/uae-pass/0.0.1/login HTTP/1.1" 302 93 "-" "PostmanRuntime/7.37.3"
+2024-05-24T11:23:16.308Z info: Page Not Found: http://localhost:3000/api/uae-pass/0.0.1/undefined?response_type=code&client_id=undefined&redirect_uri=undefined
+2024-05-24T11:23:16.310Z info: ::1 - - [24/May/2024:11:23:16 +0000] "GET /api/uae-pass/0.0.1/undefined?response_type=code&client_id=undefined&redirect_uri=undefined HTTP/1.1" 200 70 "http://localhost:3000/api/uae-pass/0.0.1/login" "PostmanRuntime/7.37.3"
+2024-05-24T11:23:16.765Z info: Redirecting user to UAE Pass login: undefined?response_type=code&client_id=undefined&redirect_uri=undefined
+2024-05-24T11:23:16.766Z info: ::1 - - [24/May/2024:11:23:16 +0000] "GET /api/uae-pass/0.0.1/login HTTP/1.1" 302 93 "-" "PostmanRuntime/7.37.3"
+2024-05-24T11:23:16.768Z info: Page Not Found: http://localhost:3000/api/uae-pass/0.0.1/undefined?response_type=code&client_id=undefined&redirect_uri=undefined
+2024-05-24T11:23:16.769Z info: ::1 - - [24/May/2024:11:23:16 +0000] "GET /api/uae-pass/0.0.1/undefined?response_type=code&client_id=undefined&redirect_uri=undefined HTTP/1.1" 200 70 "http://localhost:3000/api/uae-pass/0.0.1/login" "PostmanRuntime/7.37.3"
+2024-05-24T11:23:18.294Z info: Redirecting user to UAE Pass login: undefined?response_type=code&client_id=undefined&redirect_uri=undefined
+2024-05-24T11:23:18.297Z info: ::1 - - [24/May/2024:11:23:18 +0000] "GET /api/uae-pass/0.0.1/login HTTP/1.1" 302 93 "-" "PostmanRuntime/7.37.3"
+2024-05-24T11:23:18.298Z info: Page Not Found: http://localhost:3000/api/uae-pass/0.0.1/undefined?response_type=code&client_id=undefined&redirect_uri=undefined
+2024-05-24T11:23:18.300Z info: ::1 - - [24/May/2024:11:23:18 +0000] "GET /api/uae-pass/0.0.1/undefined?response_type=code&client_id=undefined&redirect_uri=undefined HTTP/1.1" 200 70 "http://localhost:3000/api/uae-pass/0.0.1/login" "PostmanRuntime/7.37.3"
+2024-05-24T11:23:19.080Z info: Redirecting user to UAE Pass login: undefined?response_type=code&client_id=undefined&redirect_uri=undefined
+2024-05-24T11:23:19.082Z info: ::1 - - [24/May/2024:11:23:19 +0000] "GET /api/uae-pass/0.0.1/login HTTP/1.1" 302 93 "-" "PostmanRuntime/7.37.3"
+2024-05-24T11:23:19.084Z info: Page Not Found: http://localhost:3000/api/uae-pass/0.0.1/undefined?response_type=code&client_id=undefined&redirect_uri=undefined
+2024-05-24T11:23:19.086Z info: ::1 - - [24/May/2024:11:23:19 +0000] "GET /api/uae-pass/0.0.1/undefined?response_type=code&client_id=undefined&redirect_uri=undefined HTTP/1.1" 200 70 "http://localhost:3000/api/uae-pass/0.0.1/login" "PostmanRuntime/7.37.3"
+2024-05-24T11:23:19.924Z info: Redirecting user to UAE Pass login: undefined?response_type=code&client_id=undefined&redirect_uri=undefined
+2024-05-24T11:23:19.925Z info: ::1 - - [24/May/2024:11:23:19 +0000] "GET /api/uae-pass/0.0.1/login HTTP/1.1" 302 93 "-" "PostmanRuntime/7.37.3"
+2024-05-24T11:23:19.927Z info: Page Not Found: http://localhost:3000/api/uae-pass/0.0.1/undefined?response_type=code&client_id=undefined&redirect_uri=undefined
+2024-05-24T11:23:19.929Z info: ::1 - - [24/May/2024:11:23:19 +0000] "GET /api/uae-pass/0.0.1/undefined?response_type=code&client_id=undefined&redirect_uri=undefined HTTP/1.1" 200 70 "http://localhost:3000/api/uae-pass/0.0.1/login" "PostmanRuntime/7.37.3"
+2024-05-24T11:23:21.095Z info: Redirecting user to UAE Pass login: undefined?response_type=code&client_id=undefined&redirect_uri=undefined
+2024-05-24T11:23:21.097Z info: ::1 - - [24/May/2024:11:23:21 +0000] "GET /api/uae-pass/0.0.1/login HTTP/1.1" 302 93 "-" "PostmanRuntime/7.37.3"
+2024-05-24T11:23:21.098Z info: Page Not Found: http://localhost:3000/api/uae-pass/0.0.1/undefined?response_type=code&client_id=undefined&redirect_uri=undefined
+2024-05-24T11:23:21.099Z info: ::1 - - [24/May/2024:11:23:21 +0000] "GET /api/uae-pass/0.0.1/undefined?response_type=code&client_id=undefined&redirect_uri=undefined HTTP/1.1" 200 70 "http://localhost:3000/api/uae-pass/0.0.1/login" "PostmanRuntime/7.37.3"
+2024-05-24T11:24:19.385Z info: Server is running on port 3000
+2024-05-24T11:24:32.298Z info: Page Not Found: http://localhost:3000/api/uae-pass/0.0.1/login
+2024-05-24T11:24:32.306Z info: ::1 - - [24/May/2024:11:24:32 +0000] "GET /api/uae-pass/0.0.1/login HTTP/1.1" 200 70 "-" "PostmanRuntime/7.37.3"
+2024-05-24T11:24:33.289Z info: Page Not Found: http://localhost:3000/api/uae-pass/0.0.1/login
+2024-05-24T11:24:33.290Z info: ::1 - - [24/May/2024:11:24:33 +0000] "GET /api/uae-pass/0.0.1/login HTTP/1.1" 200 70 "-" "PostmanRuntime/7.37.3"
+2024-05-24T11:25:05.620Z info: Server is running on port 3000
+2024-05-24T11:25:34.143Z info: Page Not Found: http://localhost:3000/api/uae-pass/0.0.1/login
+2024-05-24T11:25:34.149Z info: ::1 - - [24/May/2024:11:25:34 +0000] "GET /api/uae-pass/0.0.1/login HTTP/1.1" 200 70 "-" "PostmanRuntime/7.37.3"
+2024-05-24T11:25:35.029Z info: Page Not Found: http://localhost:3000/api/uae-pass/0.0.1/login
+2024-05-24T11:25:35.030Z info: ::1 - - [24/May/2024:11:25:35 +0000] "GET /api/uae-pass/0.0.1/login HTTP/1.1" 200 70 "-" "PostmanRuntime/7.37.3"
+2024-05-24T11:25:35.880Z info: Page Not Found: http://localhost:3000/api/uae-pass/0.0.1/login
+2024-05-24T11:25:35.881Z info: ::1 - - [24/May/2024:11:25:35 +0000] "GET /api/uae-pass/0.0.1/login HTTP/1.1" 200 70 "-" "PostmanRuntime/7.37.3"
+2024-05-24T11:25:36.615Z info: Page Not Found: http://localhost:3000/api/uae-pass/0.0.1/login
+2024-05-24T11:25:36.616Z info: ::1 - - [24/May/2024:11:25:36 +0000] "GET /api/uae-pass/0.0.1/login HTTP/1.1" 200 70 "-" "PostmanRuntime/7.37.3"
+2024-05-24T11:25:37.338Z info: Page Not Found: http://localhost:3000/api/uae-pass/0.0.1/login
+2024-05-24T11:25:37.339Z info: ::1 - - [24/May/2024:11:25:37 +0000] "GET /api/uae-pass/0.0.1/login HTTP/1.1" 200 70 "-" "PostmanRuntime/7.37.3"
+2024-05-24T11:25:37.974Z info: Page Not Found: http://localhost:3000/api/uae-pass/0.0.1/login
+2024-05-24T11:25:37.975Z info: ::1 - - [24/May/2024:11:25:37 +0000] "GET /api/uae-pass/0.0.1/login HTTP/1.1" 200 70 "-" "PostmanRuntime/7.37.3"
+2024-05-24T11:25:38.505Z info: Page Not Found: http://localhost:3000/api/uae-pass/0.0.1/login
+2024-05-24T11:25:38.506Z info: ::1 - - [24/May/2024:11:25:38 +0000] "GET /api/uae-pass/0.0.1/login HTTP/1.1" 200 70 "-" "PostmanRuntime/7.37.3"
+2024-05-24T11:26:44.298Z info: Server is running on port 3000
+2024-05-24T11:26:57.386Z info: Page Not Found: http://localhost:3000/api/uae-pass/0.0.1/login
+2024-05-24T11:26:57.392Z info: ::1 - - [24/May/2024:11:26:57 +0000] "GET /api/uae-pass/0.0.1/login HTTP/1.1" 200 70 "-" "PostmanRuntime/7.37.3"
+2024-05-24T11:26:58.419Z info: Page Not Found: http://localhost:3000/api/uae-pass/0.0.1/login
+2024-05-24T11:26:58.421Z info: ::1 - - [24/May/2024:11:26:58 +0000] "GET /api/uae-pass/0.0.1/login HTTP/1.1" 200 70 "-" "PostmanRuntime/7.37.3"
+2024-05-24T11:26:59.415Z info: Page Not Found: http://localhost:3000/api/uae-pass/0.0.1/login
+2024-05-24T11:26:59.416Z info: ::1 - - [24/May/2024:11:26:59 +0000] "GET /api/uae-pass/0.0.1/login HTTP/1.1" 200 70 "-" "PostmanRuntime/7.37.3"
+2024-05-24T11:26:59.813Z info: Page Not Found: http://localhost:3000/api/uae-pass/0.0.1/login
+2024-05-24T11:26:59.814Z info: ::1 - - [24/May/2024:11:26:59 +0000] "GET /api/uae-pass/0.0.1/login HTTP/1.1" 200 70 "-" "PostmanRuntime/7.37.3"
+2024-05-24T11:27:01.670Z info: Page Not Found: http://localhost:3000/api/uae-pass/0.0.1/login
+2024-05-24T11:27:01.672Z info: ::1 - - [24/May/2024:11:27:01 +0000] "GET /api/uae-pass/0.0.1/login HTTP/1.1" 200 70 "-" "PostmanRuntime/7.37.3"
+2024-05-24T11:27:02.068Z info: Page Not Found: http://localhost:3000/api/uae-pass/0.0.1/login
+2024-05-24T11:27:02.069Z info: ::1 - - [24/May/2024:11:27:02 +0000] "GET /api/uae-pass/0.0.1/login HTTP/1.1" 200 70 "-" "PostmanRuntime/7.37.3"
+2024-05-24T11:27:02.817Z info: Page Not Found: http://localhost:3000/api/uae-pass/0.0.1/login
+2024-05-24T11:27:02.818Z info: ::1 - - [24/May/2024:11:27:02 +0000] "GET /api/uae-pass/0.0.1/login HTTP/1.1" 200 70 "-" "PostmanRuntime/7.37.3"
+2024-05-24T11:27:05.227Z info: Page Not Found: http://localhost:3000/api/uae-pass/0.0.1/login
+2024-05-24T11:27:05.229Z info: ::1 - - [24/May/2024:11:27:05 +0000] "GET /api/uae-pass/0.0.1/login HTTP/1.1" 200 70 "-" "PostmanRuntime/7.37.3"
+2024-05-24T11:27:06.750Z info: Page Not Found: http://localhost:3000/api/uae-pass/0.0.1/login
+2024-05-24T11:27:06.752Z info: ::1 - - [24/May/2024:11:27:06 +0000] "GET /api/uae-pass/0.0.1/login HTTP/1.1" 200 70 "-" "PostmanRuntime/7.37.3"
+2024-05-24T11:27:25.176Z info: Page Not Found: http://localhost:3000/a
+2024-05-24T11:27:25.178Z info: ::1 - - [24/May/2024:11:27:25 +0000] "GET /a HTTP/1.1" 200 70 "-" "PostmanRuntime/7.37.3"
+2024-05-24T11:27:26.529Z info: Page Not Found: http://localhost:3000/a
+2024-05-24T11:27:26.531Z info: ::1 - - [24/May/2024:11:27:26 +0000] "GET /a HTTP/1.1" 200 70 "-" "PostmanRuntime/7.37.3"
+2024-05-24T11:27:28.610Z info: Page Not Found: http://localhost:3000/a
+2024-05-24T11:27:28.612Z info: ::1 - - [24/May/2024:11:27:28 +0000] "GET /a HTTP/1.1" 200 70 "-" "PostmanRuntime/7.37.3"
+2024-05-24T11:27:42.426Z info: ::1 - - [24/May/2024:11:27:42 +0000] "GET /api/a HTTP/1.1" 200 71 "-" "PostmanRuntime/7.37.3"
+2024-05-24T11:28:32.282Z info: ::1 - - [24/May/2024:11:28:32 +0000] "GET /api/a HTTP/1.1" 200 71 "-" "PostmanRuntime/7.37.3"
+2024-05-24T11:34:46.155Z info: Server is running on port 3000
+2024-05-24T11:34:49.184Z info: ::1 - - [24/May/2024:11:34:49 +0000] "GET /api/a HTTP/1.1" 200 71 "-" "PostmanRuntime/7.37.3"
+2024-05-24T11:34:49.977Z info: ::1 - - [24/May/2024:11:34:49 +0000] "GET /api/a HTTP/1.1" 200 71 "-" "PostmanRuntime/7.37.3"
+2024-05-24T11:34:58.326Z info: ::1 - - [24/May/2024:11:34:58 +0000] "GET /api/uae-pass HTTP/1.1" 200 79 "-" "PostmanRuntime/7.37.3"
+2024-05-24T11:34:59.217Z info: ::1 - - [24/May/2024:11:34:59 +0000] "GET /api/uae-pass HTTP/1.1" 200 79 "-" "PostmanRuntime/7.37.3"
+2024-05-24T11:35:14.614Z info: Server is running on port 3000
+2024-05-24T11:35:17.577Z info: ::1 - - [24/May/2024:11:35:17 +0000] "GET /api/uae-pass HTTP/1.1" 200 79 "-" "PostmanRuntime/7.37.3"
+2024-05-24T11:35:19.295Z info: ::1 - - [24/May/2024:11:35:19 +0000] "GET /api/uae-pass HTTP/1.1" 200 79 "-" "PostmanRuntime/7.37.3"
+2024-05-24T11:35:20.020Z info: ::1 - - [24/May/2024:11:35:20 +0000] "GET /api/uae-pass HTTP/1.1" 200 79 "-" "PostmanRuntime/7.37.3"
+2024-05-24T11:35:20.312Z info: ::1 - - [24/May/2024:11:35:20 +0000] "GET /api/uae-pass HTTP/1.1" 200 79 "-" "PostmanRuntime/7.37.3"
+2024-05-24T11:36:01.707Z info: ::1 - - [24/May/2024:11:36:01 +0000] "GET /api/uae-pass HTTP/1.1" 200 79 "-" "PostmanRuntime/7.37.3"
+2024-05-24T11:36:35.117Z info: ::1 - - [24/May/2024:11:36:35 +0000] "GET /api/uae-pass HTTP/1.1" 200 79 "-" "PostmanRuntime/7.37.3"
+2024-05-24T11:36:35.987Z info: ::1 - - [24/May/2024:11:36:35 +0000] "GET /api/uae-pass HTTP/1.1" 200 79 "-" "PostmanRuntime/7.37.3"
+2024-05-24T11:36:36.752Z info: ::1 - - [24/May/2024:11:36:36 +0000] "GET /api/uae-pass HTTP/1.1" 200 79 "-" "PostmanRuntime/7.37.3"
+2024-05-24T11:40:39.319Z info: Server is running on port 3000
+2024-05-24T11:40:58.526Z info: Redirecting user to UAE Pass login: undefined?response_type=code&client_id=undefined&redirect_uri=undefined
+2024-05-24T11:40:58.544Z info: ::1 - - [24/May/2024:11:40:58 +0000] "GET /api/uae-pass/0.0.1/login HTTP/1.1" 302 93 "-" "PostmanRuntime/7.37.3"
+2024-05-24T11:40:58.553Z info: Page Not Found: http://localhost:3000/api/uae-pass/0.0.1/undefined?response_type=code&client_id=undefined&redirect_uri=undefined
+2024-05-24T11:40:58.561Z info: ::1 - - [24/May/2024:11:40:58 +0000] "GET /api/uae-pass/0.0.1/undefined?response_type=code&client_id=undefined&redirect_uri=undefined HTTP/1.1" 200 70 "http://localhost:3000/api/uae-pass/0.0.1/login" "PostmanRuntime/7.37.3"
+2024-05-24T11:40:59.877Z info: Redirecting user to UAE Pass login: undefined?response_type=code&client_id=undefined&redirect_uri=undefined
+2024-05-24T11:40:59.883Z info: ::1 - - [24/May/2024:11:40:59 +0000] "GET /api/uae-pass/0.0.1/login HTTP/1.1" 302 93 "-" "PostmanRuntime/7.37.3"
+2024-05-24T11:40:59.890Z info: Page Not Found: http://localhost:3000/api/uae-pass/0.0.1/undefined?response_type=code&client_id=undefined&redirect_uri=undefined
+2024-05-24T11:40:59.893Z info: ::1 - - [24/May/2024:11:40:59 +0000] "GET /api/uae-pass/0.0.1/undefined?response_type=code&client_id=undefined&redirect_uri=undefined HTTP/1.1" 200 70 "http://localhost:3000/api/uae-pass/0.0.1/login" "PostmanRuntime/7.37.3"
+2024-05-24T11:41:01.168Z info: Redirecting user to UAE Pass login: undefined?response_type=code&client_id=undefined&redirect_uri=undefined
+2024-05-24T11:41:01.170Z info: ::1 - - [24/May/2024:11:41:01 +0000] "GET /api/uae-pass/0.0.1/login HTTP/1.1" 302 93 "-" "PostmanRuntime/7.37.3"
+2024-05-24T11:41:01.173Z info: Page Not Found: http://localhost:3000/api/uae-pass/0.0.1/undefined?response_type=code&client_id=undefined&redirect_uri=undefined
+2024-05-24T11:41:01.176Z info: ::1 - - [24/May/2024:11:41:01 +0000] "GET /api/uae-pass/0.0.1/undefined?response_type=code&client_id=undefined&redirect_uri=undefined HTTP/1.1" 200 70 "http://localhost:3000/api/uae-pass/0.0.1/login" "PostmanRuntime/7.37.3"
+2024-05-24T11:41:13.582Z info: Redirecting user to UAE Pass login: undefined?response_type=code&client_id=undefined&redirect_uri=undefined
+2024-05-24T11:41:13.584Z info: ::1 - - [24/May/2024:11:41:13 +0000] "GET /api/uae-pass/0.0.1/login HTTP/1.1" 302 93 "-" "PostmanRuntime/7.37.3"
+2024-05-24T11:41:13.586Z info: Page Not Found: http://localhost:3000/api/uae-pass/0.0.1/undefined?response_type=code&client_id=undefined&redirect_uri=undefined
+2024-05-24T11:41:13.588Z info: ::1 - - [24/May/2024:11:41:13 +0000] "GET /api/uae-pass/0.0.1/undefined?response_type=code&client_id=undefined&redirect_uri=undefined HTTP/1.1" 200 70 "http://localhost:3000/api/uae-pass/0.0.1/login" "PostmanRuntime/7.37.3"
+2024-05-24T11:41:38.002Z info: Server is running on port 3000
+2024-05-24T11:41:45.906Z info: Page Not Found: http://localhost:3000/api/uae-pass/0.0.1/login
+2024-05-24T11:41:45.922Z info: ::1 - - [24/May/2024:11:41:45 +0000] "GET /api/uae-pass/0.0.1/login HTTP/1.1" 200 70 "-" "PostmanRuntime/7.37.3"
+2024-05-24T11:41:46.946Z info: Page Not Found: http://localhost:3000/api/uae-pass/0.0.1/login
+2024-05-24T11:41:46.949Z info: ::1 - - [24/May/2024:11:41:46 +0000] "GET /api/uae-pass/0.0.1/login HTTP/1.1" 200 70 "-" "PostmanRuntime/7.37.3"
+2024-05-24T11:41:52.370Z info: Page Not Found: http://localhost:3000/api/uae-pass/0.0.1/login
+2024-05-24T11:41:52.372Z info: ::1 - - [24/May/2024:11:41:52 +0000] "GET /api/uae-pass/0.0.1/login HTTP/1.1" 200 70 "-" "PostmanRuntime/7.37.3"
+2024-05-24T11:42:18.617Z info: Page Not Found: http://localhost:3000/api/uae-pass/0.0.1/login
+2024-05-24T11:42:18.619Z info: ::1 - - [24/May/2024:11:42:18 +0000] "GET /api/uae-pass/0.0.1/login HTTP/1.1" 200 70 "-" "PostmanRuntime/7.37.3"
+2024-05-24T11:49:56.518Z info: Server is running on port 3000
+2024-05-24T11:50:16.596Z info: Page Not Found: http://localhost:3000/api/uae-pass/0.0.1/login
+2024-05-24T11:50:16.609Z info: ::1 - - [24/May/2024:11:50:16 +0000] "GET /api/uae-pass/0.0.1/login HTTP/1.1" 200 70 "-" "PostmanRuntime/7.37.3"
+2024-05-24T11:50:21.325Z info: ::1 - - [24/May/2024:11:50:21 +0000] "GET /api/uae-pass/login HTTP/1.1" 500 1186 "-" "PostmanRuntime/7.37.3"
+2024-05-24T11:50:22.201Z info: ::1 - - [24/May/2024:11:50:22 +0000] "GET /api/uae-pass/login HTTP/1.1" 500 1186 "-" "PostmanRuntime/7.37.3"
+2024-05-24T11:50:42.178Z info: Server is running on port 3000
+2024-05-24T11:50:49.811Z info: ::1 - - [24/May/2024:11:50:49 +0000] "GET /api/uae-pass/login HTTP/1.1" 200 76 "-" "PostmanRuntime/7.37.3"
+2024-05-24T11:51:17.061Z info: Server is running on port 3000
+2024-05-24T11:51:27.387Z info: ::1 - - [24/May/2024:11:51:27 +0000] "GET /api/uae-pass/0.0.1/login HTTP/1.1" 200 76 "-" "PostmanRuntime/7.37.3"
+2024-05-24T11:51:28.497Z info: ::1 - - [24/May/2024:11:51:28 +0000] "GET /api/uae-pass/0.0.1/login HTTP/1.1" 200 76 "-" "PostmanRuntime/7.37.3"
+2024-05-24T11:51:30.119Z info: ::1 - - [24/May/2024:11:51:30 +0000] "GET /api/uae-pass/0.0.1/login HTTP/1.1" 200 76 "-" "PostmanRuntime/7.37.3"
+2024-05-24T11:52:11.616Z info: Server is running on port 3000
+2024-05-24T11:52:21.078Z info: ::1 - - [24/May/2024:11:52:21 +0000] "GET /api/a HTTP/1.1" 200 71 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36"
+2024-05-24T11:52:24.493Z info: Redirecting user to UAE Pass login: undefined?response_type=code&client_id=undefined&redirect_uri=undefined
+2024-05-24T11:52:24.500Z info: ::1 - - [24/May/2024:11:52:24 +0000] "GET /api/uae-pass/0.0.1/login HTTP/1.1" 302 93 "-" "PostmanRuntime/7.37.3"
+2024-05-24T11:52:24.509Z info: Page Not Found: http://localhost:3000/api/uae-pass/0.0.1/undefined?response_type=code&client_id=undefined&redirect_uri=undefined
+2024-05-24T11:52:24.514Z info: ::1 - - [24/May/2024:11:52:24 +0000] "GET /api/uae-pass/0.0.1/undefined?response_type=code&client_id=undefined&redirect_uri=undefined HTTP/1.1" 200 70 "http://localhost:3000/api/uae-pass/0.0.1/login" "PostmanRuntime/7.37.3"
+2024-05-24T11:52:25.661Z info: Redirecting user to UAE Pass login: undefined?response_type=code&client_id=undefined&redirect_uri=undefined
+2024-05-24T11:52:25.664Z info: ::1 - - [24/May/2024:11:52:25 +0000] "GET /api/uae-pass/0.0.1/login HTTP/1.1" 302 93 "-" "PostmanRuntime/7.37.3"
+2024-05-24T11:52:25.667Z info: Page Not Found: http://localhost:3000/api/uae-pass/0.0.1/undefined?response_type=code&client_id=undefined&redirect_uri=undefined
+2024-05-24T11:52:25.671Z info: ::1 - - [24/May/2024:11:52:25 +0000] "GET /api/uae-pass/0.0.1/undefined?response_type=code&client_id=undefined&redirect_uri=undefined HTTP/1.1" 200 70 "http://localhost:3000/api/uae-pass/0.0.1/login" "PostmanRuntime/7.37.3"
+2024-05-24T11:53:13.609Z info: Server is running on port 3000
+2024-05-24T11:53:16.738Z info: Redirecting user to UAE Pass login: undefined?response_type=code&client_id=undefined&redirect_uri=undefined
+2024-05-24T11:53:16.747Z info: ::1 - - [24/May/2024:11:53:16 +0000] "GET /api/uae-pass/0.0.1/login HTTP/1.1" 500 77 "-" "PostmanRuntime/7.37.3"
+2024-05-24T11:53:18.016Z info: Redirecting user to UAE Pass login: undefined?response_type=code&client_id=undefined&redirect_uri=undefined
+2024-05-24T11:53:18.019Z info: ::1 - - [24/May/2024:11:53:18 +0000] "GET /api/uae-pass/0.0.1/login HTTP/1.1" 500 77 "-" "PostmanRuntime/7.37.3"
+2024-05-24T11:53:19.046Z info: Redirecting user to UAE Pass login: undefined?response_type=code&client_id=undefined&redirect_uri=undefined
+2024-05-24T11:53:19.048Z info: ::1 - - [24/May/2024:11:53:19 +0000] "GET /api/uae-pass/0.0.1/login HTTP/1.1" 500 77 "-" "PostmanRuntime/7.37.3"
+2024-05-24T11:54:48.488Z info: ::1 - - [24/May/2024:11:54:48 +0000] "GET /api/a HTTP/1.1" 304 - "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36"
+2024-05-24T11:54:50.510Z info: ::1 - - [24/May/2024:11:54:50 +0000] "GET /api/a HTTP/1.1" 304 - "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36"
+2024-05-24T11:54:52.218Z info: ::1 - - [24/May/2024:11:54:52 +0000] "GET /api/a HTTP/1.1" 304 - "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36"
+2024-05-24T12:01:07.693Z error: Error occurred in UAE Pass controller callback: connect ECONNREFUSED ::1:80
+2024-05-24T12:01:07.693Z error: Error occurred in UAE Pass controller callback: connect ECONNREFUSED ::1:80
+2024-05-24T12:01:07.697Z info: ::1 - - [24/May/2024:12:01:07 +0000] "GET /api/uae-pass/0.0.1/callback HTTP/1.1" 500 77 "-" "PostmanRuntime/7.37.3"
+2024-05-25T05:27:13.486Z error: Error occurred in UAE Pass controller callback: connect ECONNREFUSED ::1:80
+2024-05-25T05:27:13.486Z error: Error occurred in UAE Pass controller callback: connect ECONNREFUSED ::1:80
+2024-05-25T05:27:13.654Z info: ::1 - - [25/May/2024:05:27:13 +0000] "GET /api/uae-pass/0.0.1/callback HTTP/1.1" 500 77 "-" "PostmanRuntime/7.37.3"
+2024-05-25T05:28:26.042Z info: Server is running on port 3000
+2024-05-25T05:28:33.474Z info: Redirecting user to UAE Pass login: undefined?response_type=code&client_id=undefined&redirect_uri=undefined
+2024-05-25T05:28:33.506Z info: ::1 - - [25/May/2024:05:28:33 +0000] "GET /api/uae-pass/0.0.1/login HTTP/1.1" 302 93 "-" "PostmanRuntime/7.37.3"
+2024-05-25T05:28:33.518Z info: Page Not Found: http://localhost:3000/api/uae-pass/0.0.1/undefined?response_type=code&client_id=undefined&redirect_uri=undefined
+2024-05-25T05:28:33.531Z info: ::1 - - [25/May/2024:05:28:33 +0000] "GET /api/uae-pass/0.0.1/undefined?response_type=code&client_id=undefined&redirect_uri=undefined HTTP/1.1" 200 70 "http://localhost:3000/api/uae-pass/0.0.1/login" "PostmanRuntime/7.37.3"
+2024-05-25T05:29:15.609Z error: Error occurred in UAE Pass controller callback: connect ECONNREFUSED ::1:80
+2024-05-25T05:29:15.609Z error: Error occurred in UAE Pass controller callback: connect ECONNREFUSED ::1:80
+2024-05-25T05:29:15.612Z info: ::1 - - [25/May/2024:05:29:15 +0000] "GET /api/uae-pass/0.0.1/callback HTTP/1.1" 500 77 "-" "PostmanRuntime/7.37.3"
+2024-05-25T05:29:16.889Z error: Error occurred in UAE Pass controller callback: connect ECONNREFUSED ::1:80
+2024-05-25T05:29:16.889Z error: Error occurred in UAE Pass controller callback: connect ECONNREFUSED ::1:80
+2024-05-25T05:29:16.892Z info: ::1 - - [25/May/2024:05:29:16 +0000] "GET /api/uae-pass/0.0.1/callback HTTP/1.1" 500 77 "-" "PostmanRuntime/7.37.3"
+2024-05-25T05:29:30.656Z info: Redirecting user to UAE Pass login: undefined?response_type=code&client_id=undefined&redirect_uri=undefined
+2024-05-25T05:29:30.658Z info: ::1 - - [25/May/2024:05:29:30 +0000] "GET /api/uae-pass/0.0.1/login HTTP/1.1" 302 93 "-" "PostmanRuntime/7.37.3"
+2024-05-25T05:29:30.661Z info: Page Not Found: http://localhost:3000/api/uae-pass/0.0.1/undefined?response_type=code&client_id=undefined&redirect_uri=undefined
+2024-05-25T05:29:30.663Z info: ::1 - - [25/May/2024:05:29:30 +0000] "GET /api/uae-pass/0.0.1/undefined?response_type=code&client_id=undefined&redirect_uri=undefined HTTP/1.1" 200 70 "http://localhost:3000/api/uae-pass/0.0.1/login" "PostmanRuntime/7.37.3"
+2024-05-25T05:30:07.852Z info: Server is running on port 3000
+2024-05-25T05:30:18.230Z info: Redirecting user to UAE Pass login: undefined?response_type=code&client_id=undefined&redirect_uri=undefined
+2024-05-25T05:30:18.242Z info: ::1 - - [25/May/2024:05:30:18 +0000] "GET /api/uae-pass/0.0.1/login HTTP/1.1" 500 149 "-" "PostmanRuntime/7.37.3"
+2024-05-25T05:31:41.149Z info: Server is running on port 3000
+2024-05-25T05:31:49.017Z info: Redirecting user to UAE Pass login: undefined?response_type=code&client_id=undefined&redirect_uri=undefined
+2024-05-25T05:31:49.036Z info: ::1 - - [25/May/2024:05:31:49 +0000] "GET /api/uae-pass/0.0.1/login HTTP/1.1" 200 187 "-" "PostmanRuntime/7.37.3"
+2024-05-25T05:38:45.425Z info: Server is running on port 3000
+2024-05-25T05:39:20.828Z info: Redirecting user to UAE Pass login: undefined?response_type=code&client_id=undefined&redirect_uri=undefined
+2024-05-25T05:39:20.867Z info: ::1 - - [25/May/2024:05:39:20 +0000] "GET /api/uae-pass/0.0.1/login HTTP/1.1" 200 187 "-" "PostmanRuntime/7.37.3"
+2024-05-25T05:39:22.787Z info: Redirecting user to UAE Pass login: undefined?response_type=code&client_id=undefined&redirect_uri=undefined
+2024-05-25T05:39:22.792Z info: ::1 - - [25/May/2024:05:39:22 +0000] "GET /api/uae-pass/0.0.1/login HTTP/1.1" 200 187 "-" "PostmanRuntime/7.37.3"
+2024-05-25T05:40:23.632Z info: Server is running on port 3000
+2024-05-25T05:40:27.126Z info: Redirecting user to UAE Pass login: undefined?response_type=code&client_id=undefined&redirect_uri=undefined
+2024-05-25T05:40:27.139Z info: ::1 - - [25/May/2024:05:40:27 +0000] "GET /api/uae-pass/0.0.1/login HTTP/1.1" 200 221 "-" "PostmanRuntime/7.37.3"
+2024-05-25T05:40:28.219Z info: Redirecting user to UAE Pass login: undefined?response_type=code&client_id=undefined&redirect_uri=undefined
+2024-05-25T05:40:28.222Z info: ::1 - - [25/May/2024:05:40:28 +0000] "GET /api/uae-pass/0.0.1/login HTTP/1.1" 200 221 "-" "PostmanRuntime/7.37.3"
+2024-05-25T05:40:29.223Z info: Redirecting user to UAE Pass login: undefined?response_type=code&client_id=undefined&redirect_uri=undefined
+2024-05-25T05:40:29.225Z info: ::1 - - [25/May/2024:05:40:29 +0000] "GET /api/uae-pass/0.0.1/login HTTP/1.1" 200 221 "-" "PostmanRuntime/7.37.3"
+2024-05-25T05:42:51.213Z info: Server is running on port 3000
+2024-05-25T05:42:55.554Z info: Redirecting user to UAE Pass login: undefined?response_type=code&client_id=undefined&redirect_uri=undefined
+2024-05-25T05:42:55.566Z info: ::1 - - [25/May/2024:05:42:55 +0000] "GET /api/uae-pass/0.0.1/login HTTP/1.1" 200 221 "-" "PostmanRuntime/7.37.3"
+2024-05-25T05:42:56.825Z info: Redirecting user to UAE Pass login: undefined?response_type=code&client_id=undefined&redirect_uri=undefined
+2024-05-25T05:42:56.827Z info: ::1 - - [25/May/2024:05:42:56 +0000] "GET /api/uae-pass/0.0.1/login HTTP/1.1" 200 221 "-" "PostmanRuntime/7.37.3"
+2024-05-25T05:42:57.779Z info: Redirecting user to UAE Pass login: undefined?response_type=code&client_id=undefined&redirect_uri=undefined
+2024-05-25T05:42:57.782Z info: ::1 - - [25/May/2024:05:42:57 +0000] "GET /api/uae-pass/0.0.1/login HTTP/1.1" 200 221 "-" "PostmanRuntime/7.37.3"
+2024-05-25T05:42:58.718Z info: Redirecting user to UAE Pass login: undefined?response_type=code&client_id=undefined&redirect_uri=undefined
+2024-05-25T05:42:58.720Z info: ::1 - - [25/May/2024:05:42:58 +0000] "GET /api/uae-pass/0.0.1/login HTTP/1.1" 200 221 "-" "PostmanRuntime/7.37.3"
+2024-05-25T05:42:59.398Z info: Redirecting user to UAE Pass login: undefined?response_type=code&client_id=undefined&redirect_uri=undefined
+2024-05-25T05:42:59.400Z info: ::1 - - [25/May/2024:05:42:59 +0000] "GET /api/uae-pass/0.0.1/login HTTP/1.1" 200 221 "-" "PostmanRuntime/7.37.3"
+2024-05-25T05:42:59.962Z info: Redirecting user to UAE Pass login: undefined?response_type=code&client_id=undefined&redirect_uri=undefined
+2024-05-25T05:42:59.965Z info: ::1 - - [25/May/2024:05:42:59 +0000] "GET /api/uae-pass/0.0.1/login HTTP/1.1" 200 221 "-" "PostmanRuntime/7.37.3"
+2024-05-25T05:43:00.465Z info: Redirecting user to UAE Pass login: undefined?response_type=code&client_id=undefined&redirect_uri=undefined
+2024-05-25T05:43:00.467Z info: ::1 - - [25/May/2024:05:43:00 +0000] "GET /api/uae-pass/0.0.1/login HTTP/1.1" 200 221 "-" "PostmanRuntime/7.37.3"
+2024-05-25T05:44:42.357Z info: Server is running on port 3000
+2024-05-25T05:44:50.672Z info: Redirecting user to UAE Pass login: https://stg-id.uaepass.ae/idshub/authorize?response_type=code&client_id=your_client_id&redirect_uri=your_redirect_uri
+2024-05-25T05:44:50.681Z info: ::1 - - [25/May/2024:05:44:50 +0000] "GET /api/uae-pass/0.0.1/login HTTP/1.1" 200 775 "-" "PostmanRuntime/7.37.3"
+2024-05-25T05:46:07.765Z info: Server is running on port 3000
+2024-05-25T05:46:10.531Z info: Redirecting user to UAE Pass login: https://stg-id.uaepass.ae/idshub/authorize?response_type=code&client_id=your_client_id&redirect_uri=your_redirect_uri
+2024-05-25T05:46:10.548Z info: ::1 - - [25/May/2024:05:46:10 +0000] "GET /api/uae-pass/0.0.1/login HTTP/1.1" 200 775 "-" "PostmanRuntime/7.37.3"
+2024-05-25T05:46:56.588Z info: Server is running on port 3000
+2024-05-25T05:47:07.278Z info: Redirecting user to UAE Pass login: https://stg-id.uaepass.ae/idshub/authorize?response_type=code&client_id=your_client_id&redirect_uri=your_redirect_uri
+2024-05-25T05:47:07.288Z info: ::1 - - [25/May/2024:05:47:07 +0000] "GET /api/uae-pass/0.0.1/login HTTP/1.1" 200 5980 "-" "PostmanRuntime/7.37.3"
+2024-05-25T05:48:40.713Z info: Server is running on port 3000
+2024-05-25T05:51:34.472Z info: Redirecting user to UAE Pass login: https://stg-id.uaepass.ae/idshub/authorize?response_type=code&client_id=your_client_id&redirect_uri=your_redirect_uri
+2024-05-25T05:51:34.481Z info: ::1 - - [25/May/2024:05:51:34 +0000] "GET /api/uae-pass/0.0.1/login HTTP/1.1" 302 139 "-" "PostmanRuntime/7.37.3"
+2024-05-25T05:52:15.932Z info: Server is running on port 3000
+2024-05-25T05:54:26.673Z info: Redirecting user to UAE Pass login: https://stg-id.uaepass.ae/idshub/authorize?response_type=code&client_id=your_client_id&redirect_uri=your_redirect_uri
+2024-05-25T05:54:26.684Z info: ::1 - - [25/May/2024:05:54:26 +0000] "GET /api/uae-pass/0.0.1/login HTTP/1.1" 200 233 "-" "PostmanRuntime/7.37.3"
+2024-05-25T05:59:34.279Z info: Server is running on port 3002
+2024-05-25T05:59:56.948Z info: Redirecting user to UAE Pass login: https://stg-id.uaepass.ae/idshub/authorize?response_type=code&client_id=your_client_id&redirect_uri=your_redirect_uri
+2024-05-25T05:59:56.957Z info: ::1 - - [25/May/2024:05:59:56 +0000] "GET /api/uae-pass/0.0.1/login HTTP/1.1" 200 233 "-" "PostmanRuntime/7.37.3"
+2024-05-25T05:59:58.343Z info: Redirecting user to UAE Pass login: https://stg-id.uaepass.ae/idshub/authorize?response_type=code&client_id=your_client_id&redirect_uri=your_redirect_uri
+2024-05-25T05:59:58.345Z info: ::1 - - [25/May/2024:05:59:58 +0000] "GET /api/uae-pass/0.0.1/login HTTP/1.1" 200 233 "-" "PostmanRuntime/7.37.3"
+2024-05-25T06:06:44.437Z info: Page Not Found: http://localhost:3002/uae-pass/0.0.1/login
+2024-05-25T06:06:44.449Z info: ::1 - - [25/May/2024:06:06:44 +0000] "GET /uae-pass/0.0.1/login HTTP/1.1" 200 70 "http://localhost:3001/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36"
+2024-05-25T06:06:45.809Z info: Page Not Found: http://localhost:3002/uae-pass/0.0.1/login
+2024-05-25T06:06:45.810Z info: ::1 - - [25/May/2024:06:06:45 +0000] "GET /uae-pass/0.0.1/login HTTP/1.1" 200 70 "http://localhost:3001/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36"
+2024-05-25T06:06:46.002Z info: Page Not Found: http://localhost:3002/uae-pass/0.0.1/login
+2024-05-25T06:06:46.006Z info: ::1 - - [25/May/2024:06:06:46 +0000] "GET /uae-pass/0.0.1/login HTTP/1.1" 200 70 "http://localhost:3001/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36"
+2024-05-25T06:07:00.385Z info: Page Not Found: http://localhost:3002/uae-pass/0.0.1/login
+2024-05-25T06:07:00.387Z info: ::1 - - [25/May/2024:06:07:00 +0000] "GET /uae-pass/0.0.1/login HTTP/1.1" 200 70 "http://localhost:3001/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36"
+2024-05-25T06:08:31.194Z info: Server is running on port 3002
+2024-05-25T06:09:27.486Z info: Page Not Found: http://localhost:3002/uae-pass/0.0.1/login
+2024-05-25T06:09:27.503Z info: ::1 - - [25/May/2024:06:09:27 +0000] "GET /uae-pass/0.0.1/login HTTP/1.1" 200 70 "http://localhost:3001/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36"
+2024-05-25T06:09:58.871Z info: Page Not Found: http://localhost:3002/uae-pass/0.0.1/login
+2024-05-25T06:09:58.875Z info: ::1 - - [25/May/2024:06:09:58 +0000] "GET /uae-pass/0.0.1/login HTTP/1.1" 200 70 "http://localhost:3001/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36"
+2024-05-25T06:10:46.080Z info: Server is running on port 3002
+2024-05-25T06:11:16.643Z info: Page Not Found: http://localhost:3002/uae-pass/0.0.1/login
+2024-05-25T06:11:16.659Z info: ::1 - - [25/May/2024:06:11:16 +0000] "GET /uae-pass/0.0.1/login HTTP/1.1" 200 70 "http://localhost:3000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36"
+2024-05-25T06:11:58.613Z info: Server is running on port 3002
+2024-05-25T06:12:04.574Z info: Page Not Found: http://localhost:3002/uae-pass/0.0.1/login
+2024-05-25T06:12:04.585Z info: ::1 - - [25/May/2024:06:12:04 +0000] "GET /uae-pass/0.0.1/login HTTP/1.1" 200 70 "http://localhost:3000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36"
+2024-05-25T06:12:07.185Z info: Page Not Found: http://localhost:3002/uae-pass/0.0.1/login
+2024-05-25T06:12:07.189Z info: ::1 - - [25/May/2024:06:12:07 +0000] "GET /uae-pass/0.0.1/login HTTP/1.1" 200 70 "http://localhost:3000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36"
+2024-05-25T06:12:21.982Z info: Page Not Found: http://localhost:3002/uae-pass/0.0.1/login
+2024-05-25T06:12:21.986Z info: ::1 - - [25/May/2024:06:12:21 +0000] "GET /uae-pass/0.0.1/login HTTP/1.1" 200 70 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36"
+2024-05-25T06:12:22.568Z info: Page Not Found: http://localhost:3002/favicon.ico
+2024-05-25T06:12:22.572Z info: ::1 - - [25/May/2024:06:12:22 +0000] "GET /favicon.ico HTTP/1.1" 200 70 "http://localhost:3002/uae-pass/0.0.1/login" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36"
+2024-05-25T06:12:28.729Z info: Page Not Found: http://localhost:3002/uae-pass/0.0.1/login
+2024-05-25T06:12:28.733Z info: ::1 - - [25/May/2024:06:12:28 +0000] "GET /uae-pass/0.0.1/login HTTP/1.1" 304 - "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36"
+2024-05-25T06:12:28.929Z info: Page Not Found: http://localhost:3002/favicon.ico
+2024-05-25T06:12:28.931Z info: ::1 - - [25/May/2024:06:12:28 +0000] "GET /favicon.ico HTTP/1.1" 304 - "http://localhost:3002/uae-pass/0.0.1/login" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36"
+2024-05-25T06:12:35.690Z info: Redirecting user to UAE Pass login: https://stg-id.uaepass.ae/idshub/authorize?response_type=code&client_id=your_client_id&redirect_uri=your_redirect_uri
+2024-05-25T06:12:35.693Z info: ::1 - - [25/May/2024:06:12:35 +0000] "GET /api/uae-pass/0.0.1/login HTTP/1.1" 200 233 "-" "PostmanRuntime/7.37.3"
+2024-05-25T06:12:54.238Z info: Redirecting user to UAE Pass login: https://stg-id.uaepass.ae/idshub/authorize?response_type=code&client_id=your_client_id&redirect_uri=your_redirect_uri
+2024-05-25T06:12:54.241Z info: ::1 - - [25/May/2024:06:12:54 +0000] "GET /api/uae-pass/0.0.1/login HTTP/1.1" 200 233 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36"
+2024-05-25T06:12:54.509Z info: Page Not Found: http://localhost:3002/favicon.ico
+2024-05-25T06:12:54.512Z info: ::1 - - [25/May/2024:06:12:54 +0000] "GET /favicon.ico HTTP/1.1" 304 - "http://localhost:3002/api/uae-pass/0.0.1/login" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36"
+2024-05-25T06:13:47.034Z info: Redirecting user to UAE Pass login: https://stg-id.uaepass.ae/idshub/authorize?response_type=code&client_id=your_client_id&redirect_uri=your_redirect_uri
+2024-05-25T06:13:47.037Z info: ::1 - - [25/May/2024:06:13:47 +0000] "GET /api/uae-pass/0.0.1/login HTTP/1.1" 304 - "http://localhost:3000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36"
+2024-05-25T06:14:01.777Z info: Redirecting user to UAE Pass login: https://stg-id.uaepass.ae/idshub/authorize?response_type=code&client_id=your_client_id&redirect_uri=your_redirect_uri
+2024-05-25T06:14:01.779Z info: ::1 - - [25/May/2024:06:14:01 +0000] "GET /api/uae-pass/0.0.1/login HTTP/1.1" 304 - "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36"
+2024-05-25T06:14:02.316Z info: Page Not Found: http://localhost:3002/favicon.ico
+2024-05-25T06:14:02.319Z info: ::1 - - [25/May/2024:06:14:02 +0000] "GET /favicon.ico HTTP/1.1" 304 - "http://localhost:3002/api/uae-pass/0.0.1/login" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36"
+2024-05-25T06:14:55.048Z info: Redirecting user to UAE Pass login: https://stg-id.uaepass.ae/idshub/authorize?response_type=code&client_id=your_client_id&redirect_uri=your_redirect_uri
+2024-05-25T06:14:55.054Z info: ::1 - - [25/May/2024:06:14:55 +0000] "GET /api/uae-pass/0.0.1/login HTTP/1.1" 304 - "http://localhost:3000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36"
+2024-05-25T06:16:03.338Z info: Server is running on port 3002
+2024-05-25T06:16:10.600Z info: Redirecting user to UAE Pass login: https://stg-id.uaepass.ae/idshub/authorize?response_type=code&client_id=your_client_id&redirect_uri=your_redirect_uri
+2024-05-25T06:16:10.616Z info: ::1 - - [25/May/2024:06:16:10 +0000] "GET /api/uae-pass/0.0.1/login HTTP/1.1" 304 - "http://localhost:3000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36"
+2024-05-25T06:16:13.636Z info: Redirecting user to UAE Pass login: https://stg-id.uaepass.ae/idshub/authorize?response_type=code&client_id=your_client_id&redirect_uri=your_redirect_uri
+2024-05-25T06:16:13.643Z info: ::1 - - [25/May/2024:06:16:13 +0000] "GET /api/uae-pass/0.0.1/login HTTP/1.1" 304 - "http://localhost:3000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36"
+2024-05-25T06:16:14.838Z info: Redirecting user to UAE Pass login: https://stg-id.uaepass.ae/idshub/authorize?response_type=code&client_id=your_client_id&redirect_uri=your_redirect_uri
+2024-05-25T06:16:14.846Z info: ::1 - - [25/May/2024:06:16:14 +0000] "GET /api/uae-pass/0.0.1/login HTTP/1.1" 304 - "http://localhost:3000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36"
+2024-05-25T06:16:15.856Z info: Redirecting user to UAE Pass login: https://stg-id.uaepass.ae/idshub/authorize?response_type=code&client_id=your_client_id&redirect_uri=your_redirect_uri
+2024-05-25T06:16:15.859Z info: ::1 - - [25/May/2024:06:16:15 +0000] "GET /api/uae-pass/0.0.1/login HTTP/1.1" 304 - "http://localhost:3000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36"
+2024-05-25T06:16:24.393Z info: Redirecting user to UAE Pass login: https://stg-id.uaepass.ae/idshub/authorize?response_type=code&client_id=your_client_id&redirect_uri=your_redirect_uri
+2024-05-25T06:16:24.396Z info: ::1 - - [25/May/2024:06:16:24 +0000] "GET /api/uae-pass/0.0.1/login HTTP/1.1" 304 - "http://localhost:3000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36"
+2024-05-25T06:16:48.483Z info: Redirecting user to UAE Pass login: https://stg-id.uaepass.ae/idshub/authorize?response_type=code&client_id=your_client_id&redirect_uri=your_redirect_uri
+2024-05-25T06:16:48.487Z info: ::1 - - [25/May/2024:06:16:48 +0000] "GET /api/uae-pass/0.0.1/login HTTP/1.1" 304 - "http://localhost:3000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36"
+2024-05-25T06:16:53.892Z info: Redirecting user to UAE Pass login: https://stg-id.uaepass.ae/idshub/authorize?response_type=code&client_id=your_client_id&redirect_uri=your_redirect_uri
+2024-05-25T06:16:53.895Z info: ::1 - - [25/May/2024:06:16:53 +0000] "GET /api/uae-pass/0.0.1/login HTTP/1.1" 304 - "http://localhost:3000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36"
+2024-05-25T06:17:05.807Z info: Redirecting user to UAE Pass login: https://stg-id.uaepass.ae/idshub/authorize?response_type=code&client_id=your_client_id&redirect_uri=your_redirect_uri
+2024-05-25T06:17:05.809Z info: ::1 - - [25/May/2024:06:17:05 +0000] "GET /api/uae-pass/0.0.1/login HTTP/1.1" 304 - "http://localhost:3000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36"
+2024-05-25T06:17:46.796Z info: Redirecting user to UAE Pass login: https://stg-id.uaepass.ae/idshub/authorize?response_type=code&client_id=your_client_id&redirect_uri=your_redirect_uri
+2024-05-25T06:17:46.804Z info: ::1 - - [25/May/2024:06:17:46 +0000] "GET /api/uae-pass/0.0.1/login HTTP/1.1" 304 - "http://localhost:3000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36"
+2024-05-25T06:18:47.353Z info: Redirecting user to UAE Pass login: https://stg-id.uaepass.ae/idshub/authorize?response_type=code&client_id=your_client_id&redirect_uri=your_redirect_uri
+2024-05-25T06:18:47.355Z info: ::1 - - [25/May/2024:06:18:47 +0000] "GET /api/uae-pass/0.0.1/login HTTP/1.1" 304 - "http://localhost:3000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36"
+2024-05-25T06:37:40.850Z info: Redirecting user to UAE Pass login: https://stg-id.uaepass.ae/idshub/authorize?response_type=code&client_id=your_client_id&redirect_uri=your_redirect_uri
+2024-05-25T06:37:40.865Z info: ::1 - - [25/May/2024:06:37:40 +0000] "GET /api/uae-pass/0.0.1/login HTTP/1.1" 304 - "http://localhost:3000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36"
+2024-05-25T06:37:50.188Z info: Redirecting user to UAE Pass login: https://stg-id.uaepass.ae/idshub/authorize?response_type=code&client_id=your_client_id&redirect_uri=your_redirect_uri
+2024-05-25T06:37:50.193Z info: ::1 - - [25/May/2024:06:37:50 +0000] "GET /api/uae-pass/0.0.1/login HTTP/1.1" 304 - "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36"
+2024-05-25T06:37:50.879Z info: Page Not Found: http://localhost:3002/favicon.ico
+2024-05-25T06:37:50.882Z info: ::1 - - [25/May/2024:06:37:50 +0000] "GET /favicon.ico HTTP/1.1" 304 - "http://localhost:3002/api/uae-pass/0.0.1/login" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36"
